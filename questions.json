@@ -1,0 +1,1676 @@
+[
+  {
+    "question": "Phát biểu nào sai khi nói về neutron?",
+    "options": ["A. Tồn tại trong hạt nhân nguyên tử.", "B. Có khối lượng bằng khối lượng proton.", "C. Có khối lượng lớn hơn khối lượng electron.", "D. Không mang điện."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Khối lượng của 1 hạt neutron là \\(1,675.10^{-27}kg\\), trong khi đó khối lượng của 1 hạt proton là \\(1,673.10^{-27}kg\\). (Chuyên đề 1)"
+  },
+  {
+    "question": "Đặc điểm của electron là",
+    "options": ["A. mang điện tích dương và có khối lượng.", "B. mang điện tích âm và có khối lượng.", "C. không mang điện và có khối lượng.", "D. mang điện tích âm và không có khối lượng."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Hạt electron mang điện tích âm (-1) và có khối lượng là \\(9,109.10^{-31}kg\\). (Chuyên đề 1)"
+  },
+  {
+    "question": "Trường hợp nào sau đây có sự tương ứng giữa hạt cơ bản với khối lượng và điện tích của chúng?",
+    "options": ["A. Proton, m ≈ 0,00055 amu, q = +1.", "B. Neutron, m ≈ 1 amu, q = 0.", "C. Electron, m ≈ 1 amu, q = -1.", "D. Proton, m ≈ 1 amu, q = -1."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Khối lượng amu của proton hay neutron đều xấp xỉ 1 amu, electron xấp xỉ 0,00055 amu. Về điện tích q của proton = +1, electron = -1 và neutron =0. (Chuyên đề 1)"
+  },
+  {
+    "question": "Nếu đường kính của nguyên tử khoảng \\(10^2 pm\\) thì đường kính của hạt nhân khoảng",
+    "options": ["A. \\(10^2 pm\\).", "B. \\(10^{-4} pm\\).", "C. \\(10^{-2} pm\\).", "D. \\(10^4 pm\\)."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "Đường kính hạt nhân nguyên tử nhỏ hơn đường kính nguyên tử khoảng 10.000 (\\(10^4\\)) lần. Nên \\(10^2 pm : 10^4 = 10^{-2} pm\\). (Chuyên đề 1)"
+  },
+  {
+    "question": "Nguyên tử R có điện tích lớp vỏ nguyên tử là \\(-41,6.10^{-19}C\\). Điều khẳng định nào sau đây là không chính xác?",
+    "options": ["A. Lớp vỏ nguyên tử R có 26 electron.", "B. Hạt nhân nguyên tử R có 26 proton.", "C. Hạt nhân nguyên tử R có 26 neutron.", "D. Nguyên tử R trung hòa về điện."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "Trong nguyên tử, số hạt proton sẽ bằng số hạt electron = \\(\\dfrac{-41,6.10^{-19}}{-1,602.10^{-19}}=26\\). Không thể tính số neutron nếu đề chỉ cho 1 dữ liệu về điện tích lớp vỏ. (Chuyên đề 1)"
+  },
+  {
+    "question": "Hạt nhân của nguyên tử nguyên tố A có 24 hạt, trong đó số hạt không mang điện là 12. Số electron trong A là",
+    "options": ["A. 12.", "B. 24.", "C. 13.", "D. 6."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "Số hạt electron sẽ bằng số hạt proton = số hạt của hạt nhân - số hạt neutron (không mang điện) = 24 - 12 = 12 hạt. (Chuyên đề 1)"
+  },
+  {
+    "question": "Trong nguyên tử Al, số hạt mang điện tích dương là 13, số hạt không mang điện là 14. Số hạt electron trong Al là bao nhiêu?",
+    "options": ["A. 13.", "B. 15.", "C. 27.", "D. 14."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "Số hạt electron sẽ bằng số hạt proton (mang điện tích dương) = 13 hạt. (Chuyên đề 1)"
+  },
+  {
+    "question": "Khối lượng của nguyên tử magnesium là \\(39,8271.10^{-27} kg\\). Khối lượng của magnesium theo amu là",
+    "options": ["A. \\(23,985\\).", "B. \\(66,133.10^{-51}\\).", "C. \\(24,000\\).", "D. \\(23,985.10^{-3}\\)."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "Khối lượng nguyên tử magnesium theo amu = \\(\\dfrac{39,8271.10^{-27}}{1,6605.10^{-27}}=23,985\\). (Chuyên đề 1)"
+  },
+  {
+    "question": "Nguyên tử helium có 2 proton, 2 neutron, 2 electron. Khối lượng của các electron chiếm bao nhiêu % khối lượng nguyên tử helium?",
+    "options": ["A. 2,72%.", "B. 0,272%.", "C. 0,0272%.", "D. 0,0227%."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "Ta có: \\(m_e = 9,109.10^{-31} kg; m_n = 1,675.10^{-27} kg; mp = 1,673.10^{-27} kg).\\Rightarrow \\%m_e =\\frac{9,1.10^{−31}.2}{1,673.10^{−27}.2+1,675.10^{−27}.2+9,109.10^{−31}.2}.100\\%≈0,0272\\%\\). (Chuyên đề 1)"
+  },
+  {
+    "question": "Phát biểu nào sau đây không đúng?",
+    "options": ["A. Nguyên tử được cấu thành từ các hạt cơ bản là proton, neutron và electron.", "B. Nguyên tử có cấu trúc đặc khít, gồm vỏ nguyên tử và hạt nhân nguyên tử.", "C. Hạt nhân nguyên tử cấu thành từ các hạt proton và neutron.", "D. Vỏ nguyên tử cấu thành từ các hạt electron."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Nguyên tử có cấu tạo rỗng, gồm vỏ nguyên tử và hạt nhân nguyên tử. (Chuyên đề 1)"
+  },
+  {
+    "question": "Phát biểu nào sau đây không đúng?",
+    "options": ["A. Tất cả các nguyên tử đều có proton, neutron và electron.", "B. Proton và electron là các hạt mang điện, neutron là hạt không mang điện.", "C. Electron tạo nên lớp vỏ nguyên tử.", "D. Số lượng proton và electron trong nguyên tử là bằng nhau."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Nguyên tử hydrogen chỉ gồm 1 proton và 1 electron, không có neutron. (Chuyên đề 1)"
+  },
+  {
+    "question": "Nhận định nào sau đây không đúng?",
+    "options": ["A. Tất cả các hạt nhân nguyên tử đều chứa proton và neutron.", "B. Nguyên tử có kích thước vô cùng nhỏ và trung hòa về điện.", "C. Lớp vỏ nguyên tử chứa electron mang điện tích âm.", "D. Khối lượng nguyên tử hầu hết tập trung ở hạt nhân."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Hạt nhân của của nguyên tử Hidro không chứa neutron, chỉ chứa 1 proton. (Chuyên đề 1)"
+  },
+  {
+    "question": "Thông tin nào sau đây không đúng?",
+    "options": ["A. Proton mang điện tích dương, nằm trong hạt nhân, khối lượng gần bằng 1 amu.", "B. Electron mang điện tích âm, nằm trong hạt nhân, khối lượng gần bằng 0 amu.", "C. Neutron không mang điện, khối lượng gần bằng 1 amu.", "D. Nguyên tử trung hòa điện, có kích thước lớn hơn nhiều so với hạt nhân, nhưng có khối lượng gần bằng khối lượng hạt nhân."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Vì electron mang điện tích âm nằm ở lớp vỏ nguyên tử. Trong hạt nhân chỉ chứa proton và neutron. (Chuyên đề 1)"
+  },
+  {
+    "question": "Phát biểu nào dưới đây không đúng?",
+    "options": ["A. Nguyên tử được cấu thành từ các hạt cơ bản là proton, neutron và electron.", "B. Hầu hết hạt nhân nguyên tử được cấu thành từ các hạt proton và neutron.", "C. Vỏ nguyên tử được cấu thành bởi các hạt electron.", "D. Nguyên tử có cấu trúc đặc khít, gồm vỏ nguyên tử và hạt nhân nguyên tử."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Nguyên tử có cấu tạo rỗng, gồm vỏ nguyên tử và hạt nhân nguyên tử. (Chuyên đề 1)"
+  },
+  {
+    "question": "Cho 1 mol kim loại X. Phát biểu nào dưới đây đúng?",
+    "options": ["A. 1 mol X chứa số lượng nguyên tử bằng số lượng nguyên tử trong 1 mol nguyên tử hydrogen.", "B. 1 mol X chứa số lượng nguyên tử bằng số lượng nguyên tử trong \\(\\dfrac{1}{12}\\) mol nguyên tử carbon.", "C. 1 mol X có khối lượng bằng khối lượng 1 mol hydrogen.", "D. 1 mol X có khối lượng bằng \\(\\dfrac{1}{12}\\) khối lượng 1 mol carbon."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Mol là lượng chất có chứa \\(6,02.10^{23}\\) nguyên tử hoặc phân tử của chất đó. Như vậy 1 mol của bất kì nguyên tử nào đều chứa \\(6,02.10^{23}\\) nguyên tử. Suy ra: 1 mol X chứa số lượng nguyên tử bằng số lượng nguyên tử trong 1 mol nguyên tử hydrogen. (Chuyên đề 1)"
+  },
+  {
+    "question": "Cho các phát biểu sau: </br>(a) Nếu 1 nguyên tử có 17 electron thì nguyên tử đó cũng có 17 proton. </br>(b) Nếu 1 nguyên tử có 17 electron thì nguyên tử đó cũng có 17 neutron. </br>(c) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 proton. </br>(d) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 neutron. </br>(e) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 electron. </br>Số phát biểu đúng là",
+    "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Phát biểu đúng là: (a), (c). </br>(b) Sai vì trong nguyên tử chỉ có số p = số e. </br>(d), (e) Sai vì nguyên tử và ion cùng một nguyên tố chỉ khác nhau về số e còn số p và số n giống nhau. (Chuyên đề 1)"
+  },
+  {
+    "question": "Cho các phát biểu sau: </br>(1) Tất cả các hạt nhân nguyên tử đều chứa proton và neutron. </br>(2) Khối lượng nguyên tử tập trung phần lớn ở lớp vỏ. </br>(3) Trong nguyên tử, số electron bằng số proton. </br>(4) Trong hạt nhân nguyên tử, hạt mang điện là proton và electron. </br>(5) Trong nguyên tử, hạt electron có khối lượng không đáng kể so với các hạt còn lại. </br>Số phát biểu đúng là",
+    "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Phát biểu đúng là: (3), (5). </br>(1) Sai vì có trường hợp đặc biệt như hạt nhân nguyên tử H chỉ có proton. </br>(2) Sai vì khối lượng nguyên tử tập trung chủ yếu ở hạt nhân. </br>(4) Sai vì trong hạt nhân, hạt mang điện là proton. (Chuyên đề 1)"
+  },
+  {
+    "question": "Cho các phát biểu sau: </br>(a) Điện tích của proton và electron có cùng độ lớn nhưng ngược dấu. </br>(b) Có những nguyên tử không chứa neutron nào. </br>(c) Một số nguyên tử không có bất kì proton nào. </br>(d) Điện tích của proton và neutron có cùng độ lớn nhưng ngược dấu. </br>(e) Trong nguyên tử, số hạt proton luôn bằng số hạt electron. </br>(g) Khối lượng của proton và neutron xấp xỉ bằng nhau và lớn hơn nhiều khối lượng của electron. </br>Số phát biểu không đúng là",
+    "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 1,
+    "explanation": "Phát biểu không đúng là: (c), (d). </br>(c) Sai vì proton là hạt đặc trưng cho nguyên tử, nguyên tố nên bất cứ nguyên tử nào cũng phải có proton. </br>(d) Sai vì neutron không mang điện. (Chuyên đề 1)"
+  },
+  {
+    "question": "Các hợp chất của nguyên tố Y được sử dụng như là vật liệu chịu lửa trong các lò sản xuất sắt, thép, kim loại màu, thủy tinh và xi măng. Oxide của Y và các hợp chất khác cũng được sử dụng trong nông nghiệp, công nghiệp hóa chất và xây dựng. Nguyên tử Y có tổng số các hạt là 36. Số hạt không mang điện bằng một nửa hiệu số giữa tổng số hạt với số hạt mang điện tích âm. Xác định thành phần cấu tạo của nguyên tử Y.",
+    "options": ["A. \\(^{22}_{12}Mg\\).", "B. \\(^{23}_{12}Mg\\)", "C. \\(^{24}_{12}Mg\\)", "D. \\(^{25}_{12}Mg\\)"],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\(\\left\\{ \\begin{array}{1}2{\\rm{Z}}\\,{\\rm{ + }}\\,{\\rm{N}}\\,{\\rm{ = }}\\,36\\\\2N = 2Z + N - Z\\end{array} \\right.\\, \\Rightarrow Z = P = E = N = 12\\, \\Rightarrow \\,A = 24\\, \\Rightarrow \\,{}_{12}^{24}Mg\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Nitrogen giúp bảo quản tinh trùng, phôi, máu và tế bào gốc. Biết nguyên tử nitrogen có tổng số hạt là 21. Số hạt không mang điện chiếm 33,33%. Xác định số đơn vị điện tích hạt nhân của nitrogen.",
+    "options": ["A. 7.", "B. 8.", "C. 14.", "D. 15."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\(\\left\\{ \\begin{array}{l}2{\\rm{Z}}\\,{\\rm{ + }}\\,{\\rm{N}}\\,{\\rm{ = }}\\,21\\\\N = 21.33,33\\%  = 7\\end{array} \\right.\\, \\Rightarrow Z = P = E = N = 7.\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Nguyên tử của nguyên tố X có tổng số hạt cơ bản (proton, electron, neutron) là 49, trong đó số hạt không mang điện bằng 53,125% số hạt mang điện. Xác định số proton, số electron, số neutron và số khối của X.",
+    "options": ["A. 30.", "B. 31.", "C. 32.", "D. 33."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l}{2Z  +  N  =  49}\\\\{N  =  53}{.125\\% }{.2Z}\\end{array} \\right.{ } \\Rightarrow \\left\\{ \\begin{array}{l}Z{  =  16}\\\\{N  =  17}\\end{array} \\right. \\Rightarrow { }\\left\\{ \\begin{array}{l}{P  =  E  =  Z  =  16}\\\\{A_X}{  =  N  +  Z  =  33}\\end{array} \\right.\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Nguyên tố X được sử dụng rộng rãi trong đời sống: đúc tiền, làm đồ trang sức, làm răng giả,… Muối iodide của X được sử dụng nhằm tự mây tạo mưa nhân tạo. Tổng số hạt cơ bản trong nguyên tử X nguyên tố X là 155, số hạt mang điện nhiều hơn số hạt không mang điện là 33 hạt. Xác định nguyên tố X.",
+    "options": ["A. Ag.", "B. Au.", "C. Al.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} {2Z + N = 155}\\\\ 2Z{ } - { N = 33} \\end{array} \\right.{ } \\Rightarrow \\left\\{ \\begin{array}{l} Z{ = 47}\\\\ {N = 61} \\end{array} \\right.{ } \\Rightarrow { X: Ag (silver)}\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Oxide của kim loại M \\((M_2O)\\) được ứng dụng rất nhiều trong ngành hóa chất như sản xuất xi măng, sản xuất phân bón,… Trong sản xuất phân bón, chúng ta thường thấy \\(M_2O\\) có màu trắng, tan nhiều trong nước và là thành phần không thể thiếu cho mọi loại cây trồng. Tổng số hạt cơ bản trong phân tử \\(M_2O\\) là 140, trong phân tử \\(M_2O\\) có tổng số hạt mang điện nhiều hơn số hạt không mang điện là 44. Xác định công thức phân tử của \\(M_2O\\) (biết nguyên tử khối O là 16, \\(Z_O\\) = 8).",
+    "options": ["A. \\(Na_2O\\).", "B. \\(K_2O\\).", "C. \\(Li_2O\\).", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} {2(2}{{Z}_{M}}{ + }{{N}_M}{) + 24 = 140}\\\\ {(2}{.2}{{Z}_M}{ + 8}{.2) } - { (2}{{N}_M}{ + 8) = 44} \\end{array} \\right.{ } \\Rightarrow \\left\\{ \\begin{array}{l} {Z_M}{ = 19 (K)}\\\\ {{N}_M}{ = 20} \\end{array} \\right. \\Rightarrow { }{{K}_2}O\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Hợp chất \\(AB_2\\) (trong đó A chiếm 50% về khối lượng) có tổng số hạt proton là 32. Nguyên tử A và B đều có số proton bằng số neutron. \\(AB_2\\) là gì?",
+    "options": ["A. \\(NO_2\\).", "B. \\(CO_2\\).", "C. \\(SO_2\\).", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { }{{Z}_A}{ + 2}{{Z}_B}{ = 32}\\\\ ({Z_A}{ + }{{N}_A}){ = 50\\% [(}{{Z}_A}{ + }{{N}_A}{) + 2(}{{Z}_B}{ + }{{N}_B}{)]}\\\\ {{Z}_A}{ = }{{N}_A};{ }{{Z}_B}{ = }{{N}_B} \\end{array} \\right.\\Rightarrow \\left\\{ \\begin{array}{l} {Z_A}{ = }{{N}_A}{ = 16 (S)}\\\\ {{Z}_B}{ = }{{N}_B}{ = 8 (O)} \\end{array} \\right.\\Rightarrow { }S{O_2}\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Hợp chất \\(MX_3\\) có tổng số hạt mang điện tích là 128. Trong hợp chất, số proton của nguyên tử X nhiều hơn số proton của nguyên tử M là 38. Công thức của hợp chất trên là gì?",
+    "options": ["A. \\(FeCl_3\\).", "B. \\(FeF_3\\).", "C. \\(AlBr_3\\).", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { }2{Z_M}{ + 3}{.2}{{Z}_X}{ = 128}\\\\ { 3}{{Z}_X}{ } - { }{{Z}_M}{ = 38} \\end{array} \\right.\\Rightarrow \\left\\{ \\begin{array}{l} {Z_M}{ = 13 (Al)}\\\\ {Z_X}{ = 17 (Cl)} \\end{array} \\right.\\Rightarrow { }AlC{l_3}\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Hợp chất \\(XY_2\\) phổ biến trong sử dụng để làm cơ chế đánh lửa bằng bánh xe trong các dạng súng cổ. Mỗi phân tử XY2 có tổng các hạt proton, neutron, electron bằng 178; trong đó, số hạt mang điện nhiều hơn số hạt không mang điện là 54, số hạt mang điện của X ít hơn số hạt mang điện của Y là 12. Hãy xác định hợp chất trên.",
+    "options": ["A. \\(FeS_2\\).", "B. \\(CuCl_2\\).", "C. \\(CO_2\\).", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { (2}{{Z}_{X}}{ + }{{N}_X}{) + 2(2}{{Z}_Y}{ + }{{N}_Y}{) = 178}\\\\ { (2}{{Z}_X}{ + 2}{.2}{{Z}_Y}{) } - { (}{{N}_X}{ + 2}{{N}_Y}{) = 54} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} 2{Z_X}{ + 4}{{Z}_Y}{ = 116}\\\\ {{N}_X}{ + 2}{{N}_Y}{ = 62} \\end{array} \\right.\\) </br> \\( \\Rightarrow \\left\\{ \\begin{array}{l} { 2}{.2}{{Z}_Y}{ } - { 2}{{Z}_X}{ = 12}\\\\ {2}{{Z}_X}{ + 4}{{Z}_Y}{ = 116} \\end{array} \\right.{ } \\Rightarrow \\left\\{ \\begin{array}{l} {Z_X}{ = 26 (Fe)}\\\\ {{Z}_Y}{ = 16 (S)} \\end{array} \\right. \\Rightarrow { CT: Fe}{{S}_2}\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Tổng số proton, electron, neutron trong hai nguyên tử A và B là 142, trong số đó tổng số hạt mang điện nhiều hơn số hạt không mang điện là 42. Số hạt mang điện của B nhiều hơn của A là 12. Số hiệu nguyên tử của A và B là",
+    "options": ["A. 17 và 19.", "B. 20 và 26.", "C. 43 và 49.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { }2({Z_A}{ + }{{Z}_B}){ + (}{{N}_A}{ + }{{N}_B}{) = 142}\\\\ { }2({Z_A}{ + }{{Z}_B}){ } - { (}{{N}_A}{ + }{{N}_B}{) = 42} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} ({Z_A}{ + }{{Z}_B}){ = 46}\\\\ {(}{{N}_A}{ + }{{N}_B}{) = 50} \\end{array} \\right.\\) </br> \\( \\Rightarrow \\left\\{ \\begin{array}{l} {Z_A}{ + }{{Z}_B}{ = 46}\\\\ {2}{{Z}_B}{ } - { 2}{{Z}_A}{ = 12} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {Z_A}{ = 20}\\\\ {{Z}_B}{ = 26} \\end{array} \\right.\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Trong phân tử \\(MX_2\\), M chiếm 46,67% về khối lượng. Hạt nhân M có số neutron nhiều hơn số proton là 4 hạt. Trong nhân X số neutron bằng số proton. Tổng số proton trong phân tử \\(MX_2\\) là 58. CTPT của \\(MX_2\\) là",
+    "options": ["A. \\(NO_2\\).", "B. \\(MgCl_2\\).", "C. \\(FeS_2\\).", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { }{{Z}_M}{ + 2}{{Z}_X}{ = 58}\\\\ {{Z}_X}{ = }{{N}_X}{; }{N_M}{ } - { }{{Z}_M}{ = 4}\\\\ { (}{{Z}_M}{ + }{{N}_M}{) = 46}{,67\\% [(}{{Z}_M}{ + }{{N}_M}{) + 2(}{{Z}_X}{ + }{{N}_X}{)]} \\end{array} \\right.{ } \\Rightarrow \\left\\{ \\begin{array}{l} {Z_M}{ = 26 (Fe)}\\\\ {{N}_M}{ = 30}\\\\ {{Z}_X}{ = }{{N}_X}{ = 16 (S)} \\end{array} \\right.\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Một nguyên tử có tổng số hạt mang điện là 40 hạt, trong đó tổng số hạt mang điện nhiều hơn tổng số hạt không mang điện là 12 hạt. Tính số hạt mỗi loại trong nguyên tử.",
+    "options": ["A. p = e = n = 13.", "B. p = e = 13; n = 14.", "C. p = e = 13; n = 12.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\(\\left\\{ \\begin{array}{l}p + n + e = 40\\\\p + e - n = 14\\\\p = e\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l}2p + n = 40\\\\2p - n = 14\\\\p = e\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l}p = 13\\\\n = 14\\\\e = 13\\end{array} \\right.\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "A, B là 2 nguyên tố ở cùng phân nhóm và thuộc 2 chu kì lên tiếp trong bảng tuần hoàn. Tổng số p trong hai hạt nhân nguyên tử A và B bằng 32. Hãy xác định nguyên tố A,B.",
+    "options": ["A. A: K; B: Ca.", "B. A: Ca; B: K.", "C. A: Mg; B: Ca.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "Theo bài ra ta có: </br>+ A, B là 2 nguyên tố ở cùng phân nhóm và thuộc 2 chu kì liên tiếp trong bảng tuần hoàn => \\(p_B – p_A = 8 (I)\\) </br>+ Tổng số p trong hai hạt nhân nguyên tử A và B bằng 32 có: \\(p_B + p_A = 32 (II)\\). </br>Từ (I), (II) giải ra ta được \\(p_A = 12\\) là magnesium (Mg) và \\(p_B = 20\\) là calcium (Ca). (Chuyên đề 1)"
+  },
+  {
+    "question": "Một nguyên tử của nguyên tố X có tổng số hạt là 34, trong đó số hạt không mang điện chiếm 35,3%. Một nguyên tử của nguyên tố Y có tổng số hạt là 52 trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 16 hạt. Cho biết tên của nguyên tố X, Y?",
+    "options": ["A. X: K; Y: Cl.", "B. X: K; Y: F.", "C. X: Na; Y: F.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\(\\left\\{ \\begin{array}{l} {P_X} + {E_X} + {N_X} = 34\\\\ {N_X} = 34.35,3\\% \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {P_X} = {E_X} = 11\\\\ {N_X} = 12 \\end{array} \\right. \\Rightarrow X: Na\\) </br> \\(\\left\\{ \\begin{array}{l} {P_Y} + {E_Y} + {N_Y} = 52\\\\ {P_Y} + {E_Y} - {N_Y} = 16 \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {P_Y} = {E_Y} = 17\\\\ {N_Y} = 18 \\end{array} \\right. \\Rightarrow Y: Cl\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Tổng số hạt Proton, Neutron và Electron trong nguyên tử của một nguyên tố là 13, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 3 hạt. Tính số hạt mỗi loại có trong nguyên tử của nguyên tố trên.",
+    "options": ["A. P = E = 4; N = 5.", "B. P = E = N = 4.", "C. P = E = 4; N = 3.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "P + N + E = 13 => 2P + N = 13 </br> và 2P - N = 3 </br> => P = 4 và N = 5 (Chuyên đề 1)"
+  },
+  {
+    "question": "Tổng số hạt cơ bản của 2 nguyên tử của 2 nguyên tố A và B có tổng số hạt là 142. Trong đó số hạt mang điện nhiều hơn tổng số hạt không mang điện là 42. số hạt mang điện của nguyên tố B nhiều hơn nguyên tố A là 12. Còn số hạt không mang điện của nguyên tố B nhiều gấp rưỡi của nguyên tố A. Hãy xác định tên 2 nguyên tố A,B.",
+    "options": ["A. A: K, B: Fe.", "B. A: Ca, B: Fe.", "C. A: K, B: Cu.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "\\(\\left\\{\\begin{matrix} 2P_A + N_A + 2P_B + N_B = 142 \\\\ 2P_A - N_A + 2P_B - N_B = 42 \\\\ 2P_A - 2P_B = 12 \\\\ N_B = 1,5.N_A \\end{matrix}\\right. \\Rightarrow \\left\\{\\begin{matrix} P_A = 20 \\\\ N_A = 20 \\\\ P_B = 26 \\\\ N_B = 30 \\end{matrix}\\right.\\Rightarrow \\left\\{\\begin{matrix} A: Ca \\\\ B: Fe \\end{matrix}\\right.\\) (Chuyên đề 1)"
+  },
+  {
+    "question": "Một nguyên tử X có tổng số hạt proton, neutron, electron trong nguyên tử là 58, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 18. Số proton của nguyên tử X là",
+    "options": ["A. 17.", "B. 18.", "C. 19.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 1,
+    "explanation": "P + N + E = 58 => 2P + N = 58 </br> và 2P - N = 18 </br> => P = 19 và N = 20 (Chuyên đề 1)"
+  },
+  {
+    "question": "C là ký hiệu hóa học của nguyên tố hóa học nào?",
+    "options": ["A. Calcium.", "B. Carbon.", "C. Copper.", "D. Cobalt."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "C là ký hiệu của Carbon (Cacbon). (Chuyên đề 2)"
+  },
+  {
+    "question": "Kí hiệu hóa học của nguyên tố Sodium là",
+    "options": ["A. N.", "B. Ca.", "C. Na.", "D. S."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Na là ký hiệu của Sodium (Natri). (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tố hóa học có khối lượng nguyên tử bằng 35,5 amu là",
+    "options": ["A. N.", "B. Ca.", "C. Na.", "D. Cl."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Tra bảng tuần hoàn: Clo có khối lượng nguyên tử bằng 35,5. (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tố hóa học Barium có khối lượng nguyên tử bằng",
+    "options": ["A. 137 amu.", "B. 40 amu.", "C. 23 amu.", "D. 56 amu."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Tra bảng tuần hoàn: Bari có khối lượng nguyên tử bằng 137. (Chuyên đề 2)"
+  },
+  {
+    "question": "Chọn khẳng định đúng",
+    "options": ["A. Nguyên tử Oxy có điện tích hạt nhân là +7.", "B. Nguyên tố có số hiệu nguyên tử bằng 6 là nguyên tố N.", "C. Neon là nguyên tố hóa học có 8 electron ở lớp ngoài cùng.", "D. Hạt nhân nguyên tử Nitơ có 5 proton."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Oxy có điện tích hạt nhân +8; Nitơ có số hiệu nguyên tử là 7 và hạt nhân có 7 proton. (Chuyên đề 2)"
+  },
+  {
+    "question": "Chọn khẳng định đúng",
+    "options": ["A. Sodium có ký hiệu hóa học là S.", "B. Ni là ký hiệu hóa học của nguyên tố Nitrogen.", "C. Iron (sắt) có ký hiệu hóa học là Ir.", "D. Ký hiệu hóa học của Calcium có 2 chữ cái Latin."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Sodium có ký hiệu hóa học là Na (Natri); Ni là ký hiệu hóa học của nguyên tố Niken; Iron (sắt) có ký hiệu hóa học là Fe; Ký hiệu hóa học của Calcium là Ca. (Chuyên đề 2)"
+  },
+  {
+    "question": "Nếu 2 nguyên tử A và D là đồng vị của nhau thì",
+    "options": ["A. A và D không có cùng số proton trong nguyên tử.", "B. A và D không có cùng số neutron trong hạt nhân.", "C. A và D có cùng khối lượng nguyên tử (theo amu).", "D. A và D có cùng số electron trong hạt nhân."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Các đồng vị có cùng số proton trong hạt nhân, electron trong lớp vỏ nhưng khác số nơtron trong hạt nhân. (Chuyên đề 2)"
+  },
+  {
+    "question": "Chọn khẳng định đúng",
+    "options": ["A. Tất cả các hạt nhân nguyên tử đều chứa proton và neutron.", "B. Khối lượng nguyên tử tập trung phần lớn ở lớp vỏ.", "C. Trong nguyên tử, số electron bằng số proton.", "D. Trong hạt nhân nguyên tử, hạt mang điện là proton và electron."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Tồn tại nguyên tử Hidro không có neutron; Khối lượng nguyên tử tập trung ở hạt nhân; Electron nằm ở lớp vỏ chứ không nằm trong hạt nhân. (Chuyên đề 2)"
+  },
+  {
+    "question": "Chọn phát biểu sai",
+    "options": ["A. Các nguyên tử thuộc cùng một nguyên tố hóa học thì có tính chất giống nhau.", "B. Tập hợp các nguyên tử có cùng số proton đều thuộc cùng một nguyên tố hóa học.", "C. Nguyên tố hóa học là những nguyên tử có cùng số neutron khác nhau số proton.", "D. Nguyên tố hóa học là những nguyên tố có cùng điện tích hạt nhân."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Những nguyên tử khác nhau số proton thì không cùng một nguyên tố hóa học. (Chuyên đề 2)"
+  },
+  {
+    "question": "Chọn phát biểu sai",
+    "options": ["A. Các đồng vị có tính chất hóa học giống nhau.", "B. Nguyên tố hóa học là hỗn hợp nhiều đồng vị của cùng 1 nguyên tố.", "C. Các đồng vị có cùng số electron ở vỏ nguyên tử.", "D. Các đồng vị có cùng số neutron nhưng khác nhau về số proton."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Các đồng vị có cùng số proton nhưng khác nhau về số neutron. (Chuyên đề 2)"
+  },
+  {
+    "question": "Ba nguyên tử X, Y, Z có số proton và số neutron như sau: X: 20 proton và 20 neutron. Y: 18 proton và 22 neutron. Z: 20 proton và 22 neutron. Những nguyên tử nào cùng một nguyên tố hóa học?",
+    "options": ["A. X và Y.", "B. X và Z.", "C. Y và Z.", "D. Cả X, Y và Z."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Dễ dàng thấy chỉ có X và Z là có cùng số proton (20) (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong đời sống, chúng ta biết rằng kim cương với vẻ ngoài sáng bóng, lấp lánh và có độ cứng lớn nhất trong tự nhiên, còn than chì (graphite) có màu đen, bóng và mềm. Chúng có tính chất trái ngược nhau nhưng lại thuộc cùng nguyên tố X. Nguyên tố X là gì?",
+    "options": ["A. C.", "B. Ca.", "C. Cu.", "D. Cl."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Kim cương và than chì (graphite) đều được tạo nên từ nguyên tố carbon, kí hiệu hoá học là C. (Chuyên đề 2)"
+  },
+  {
+    "question": "Calcium là một nguyên tố hóa học có nhiều trong xương và răng, giúp cho xương và răng chắc khỏe. Thực phẩm và thuốc bổ chứa nguyên tố calcium giúp phòng ngừa bệnh loãng xương ở tuổi già và phát triển chiều cao ở trẻ em. Viết kí hiệu hóa học của nguyên tố calcium",
+    "options": ["A. C.", "B. Ca.", "C. Cu.", "D. Cl."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 2,
+    "explanation": "Nguyên tố calcium có kí hiệu hóa học là Ca. (Chuyên đề 2)"
+  },
+  {
+    "question": "Copper trong tự nhiên có 2 đồng vị, \\(_{29}^{65}Cu\\) và \\(_{29}^{63}Cu\\) với tỷ số là 245/105. Tính nguyên tử khối của Copper. Tính phần trăm về số nguyên tử mỗi đồng vị.",
+    "options": ["A. 64,2.", "B. 64,3.", "C. 64,4.", "D. 64,5."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\mathop {{{A}_{{Cu}}}}\\limits^{ - } { = }\\frac{{{{A}_{1}}{.}{{x}_{1}}{ + }{{A}_{2}}{.}{{x}_{2}}}}{{{{x}_{1}}{ + }{{x}_{2}}}}{ = }\\frac{{{65}{.245 + 63}{.105}}}{{{245 + 105}}} = { 64}{,4}\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Một thanh Copper chứa 1 mol Cu. Trong thanh Copper đó có 2 loại đồng vị là \\(_{29}^{63}Cu\\) và \\(_{29}^{65}Cu\\) với hàm lượng tương ứng là 25% và 75%. Hỏi thanh Copper đó nặng bao nhiêu gam?",
+    "options": ["A. 64,2.", "B. 64,3.", "C. 64,4.", "D. 64,5."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\({\\mathop {A}\\limits^{ - } _{{Cu}}}{ = }\\frac{{{{A}_{1}}{.}{{x}_{1}}{ + }{{A}_{2}}{.}{{x}_{2}}}}{{{{x}_{1}}{ + }{{x}_{2}}}}{ = }\\frac{{{63}{.25 + 65}{.75}}}{{{25 + 75}}} = { 64}{,5}\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên Bromine có hai đồng vị bền: \\(_{35}^{79}Br\\) chiếm 50,69% số nguyên tử và \\(_{35}^{81}Br\\) chiếm 49,31% số nguyên tử. Hãy tìm nguyên tử khối trung bình của Bromine.",
+    "options": ["A. 79,9862.", "B. 79,9682.", "C. 79,9268.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\overline{A_{Br}}= \\dfrac{79.59,69+81.49,31}{100}=79,9862\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên sodium tồn tại 2 đồng vị là \\(_{11}^{23}Na\\) (96,5%) và \\(_{11}^{24}Na\\). Xác định nguyên tử khối trung bình của sodium.",
+    "options": ["A. 23,503.", "B. 23,035.", "C. 23,305.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\overline{A_{Na}}= \\dfrac{23.96,5+24.(100-96,5)}{100}=23,035\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên, Aluminium có 2 đồng vị bền là \\(_{13}^{27}Al\\) (chiếm 96%) và \\(_{13}^{28}Al\\). Tính nguyên tử khối trung bình của aluminium.",
+    "options": ["A. 27,44.", "B. 27,40.", "C. 27,04.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\overline{A_{Al}}= \\dfrac{27.96+28.(100-96)}{100}=27,04\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Một thiên thạch được tìm thấy ở trung tâm Indiana chứa dấu vết của khí neon (Ne), khí này có nguồn gốc từ gió của mặt trời khi thiên thạch đi qua hệ mặt trời. Phân tích một mẫu khí cho thấy nó bao gồm 91,84% \\(^{20}Ne\\) (khối lượng 19,9924 amu), 0,47% \\(^{21}Ne\\) (khối lượng 20,9940 amu) và 7,69% \\(^{22}Ne\\) (khối lượng 21,9914 amu). Khối lượng trung bình của Ne trong gió mặt trời là bao nhiêu?",
+    "options": ["A. 20,12 amu.", "B. 20,13 amu.", "C. 20,14 amu.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\overline{m_{Ne}}= \\dfrac{19,9924.91,84+20,9940.0,47+21,9914.7,69}{100}=20,15 amu\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Argon tách ra từ không khí là hỗn hợp ba đồng vị : 99,6% \\(^{40}Ar\\) ; 0,063% \\(^{38}Ar\\) ; 0,337% \\(^{36}Ar\\) . Tính thể tích của 10 gam Argon ở điều kiện chuẩn.",
+    "options": ["A. 5,602 lít.", "B. 5,206 lít.", "C. 5,026 lít.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\overline{A_{Ar}}= \\dfrac{40.99,6+38.0,063+36.0,337}{100}=39,985 \\Rightarrow n_{Ar}=\\dfrac{m_{Ar}}{A_{Ar}}=\\dfrac{10}{39,985} \\Rightarrow V_{Ar}=22,4.n=\\dfrac{22,4.10}{39,985}=5,602l \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên oxygen có 3 đồng vị \\(_{8}^{16}O\\) , \\(_{8}^{17}O\\) , \\(_{8}^{18}O\\) lần lượt chiếm thành phần phần trăm là \\(x_1, x_2, x_3\\)%. Biết \\(x_1 = 15x_2\\) và \\(x_1 - x_2 = 21x_3\\). Tính khối lượng trung bình của oxygen.",
+    "options": ["A. 17,14.", "B. 16,14.", "C. 17,41.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\left\\{\\begin{matrix} x_1+x_2+x_3=100 \\\\ x_1-15x_2=0 \\\\ x_1 - x_2 - 21x_3 = 0 \\end{matrix}\\right. \\Rightarrow \\left\\{\\begin{matrix} x_1=90 \\\\ x_2=6 \\\\ x_3=4 \\end{matrix}\\right. \\Rightarrow \\overline{A_{O}}= \\dfrac{16.90+17.6+18.4}{100}=16,14\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Copper (đồng) là loại vật dụng dễ dát mỏng và uốn lượn, có khả năng dẫn điện, dẫn nhiệt tốt. Vì thế đồng đồng được sử dụng rất nhiều trong sản xuất nguyên liệu. Các đồ dùng từ đồng như: dây điện, que hàn đồng, tay cầm và các đồ dùng nội thất trong nhà, các tượng đúc, nam châm điện, các động cơ máy móc, và còn rất nhiều nữa... Trong tự nhiên, Copper có hai đồng vị bền \\(^{65}Cu\\) và \\(^{63}Cu\\) . Nguyên tử khối trung bình của đồng là 63,54. Tính thành phần phần trăm của đồng vị \\(^{65}Cu\\).",
+    "options": ["A. 23%.", "B. 73%.", "C. 27%.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x là phần trăm đồng vị 65Cu, y là phần trăm đồng vị 63Cu. Ta có hệ phương trình \\(\\left\\{\\begin{matrix} x+y=100 \\\\ 65.x+63.y = 63,54.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=27 \\\\ y=73 \\end{matrix}\\right. \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Tính thành phần % các đồng vị của Carbon biết Carbon ở trạng thái tự nhiên có 2 đồng vị bền là \\(^{12}_{6}C, ^{13}_{6}C\\). Biết nguyên tử khối trung bình của Carbon là 12,011.",
+    "options": ["A. 98,9% và 1,1%.", "B. 49,5% và 51,5%.", "C. 99,8% và 0,2%.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x là phần trăm đồng vị 12C, y là phần trăm đồng vị 13C. Ta có hệ phương trình \\(\\left\\{\\begin{matrix} x+y=100 \\\\ 12.x+13.y = 12,011.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=98,9 \\\\ y=1,1 \\end{matrix}\\right. \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Boron là nguyên tố có nhiều tác dụng đối với cơ thể người như: làm lành vết thương, điều hoà nội tiết sinh dục, chống viêm khớp… Do ngọn cháy có màu đặc biệt, boron vô định hình được dùng làm pháo hoa. Trong tự nhiên có hai đồng vị bền: \\(^{10}B\\) và \\(^{11}B\\) . Nguyên tử khối trung bình bằng 10,81. Tính phần trăm số nguyên tử mỗi đồng vị.",
+    "options": ["A. 18% và 82%.", "B. 19% và 81%.", "C. 20% và 80%.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x là phần trăm đồng vị 10B, y là phần trăm đồng vị 11B. Ta có hệ phương trình \\(\\left\\{\\begin{matrix} x+y=100 \\\\ 10.x+11.y = 10,81.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=19 \\\\ y=81 \\end{matrix}\\right. \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên, potassium có 2 đồng vị bền là \\(^{39}K\\) và \\(^{41}K\\). Nguyên tử khối trung bình của potassium là 39,12. Tính % mỗi loại đồng vị trong tự nhiên của potassium.",
+    "options": ["A. 85% và 15%.", "B. 90% và 10%.", "C. 94% và 6%.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x là phần trăm đồng vị 39K, y là phần trăm đồng vị 41K. Ta có hệ phương trình \\(\\left\\{\\begin{matrix} x+y=100 \\\\ 39.x+41.y = 39,12.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=94 \\\\ y=6 \\end{matrix}\\right. \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tử khối trung bình của Bromine là 79,91. Bromine có hai đồng vị, biết đồng vị \\(^{79}_{35}Br\\) chiếm 54,5%. Hãy xác định nguyên tử khối của đồng vị thứ 2.",
+    "options": ["A. 78.", "B. 79.", "C. 80.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Phần trăm đồng vị thứ 2 = 100% - 54,5% = 45,5%. Gọi x là số khối cần tìm, ta có phương trình \\(\\overline{A_{Br}}.100= 79.54,5+x.45,5=79,9862.100 \\Rightarrow x=81 \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tử khối trung bình của Bromine là 79,91. Bromine có hai đồng vị, biết đồng vị \\(^{79}_{35}Br\\) chiếm 54,5%. Hãy xác định nguyên tử khối của đồng vị thứ 2.",
+    "options": ["A. 78.", "B. 79.", "C. 80.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Phần trăm đồng vị thứ 2 = 100% - 54,5% = 45,5%. Gọi x là số khối cần tìm, ta có phương trình \\(\\overline{A_{Br}}.100= 79.54,5+x.45,5=79,9862.100 \\Rightarrow x=81 \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tử khối trung bình của vanadium (V) là 50,9975. Nguyên tố V có 2 đồng vị trong đó đồng vị \\(^{50}_{23}V\\) chiếm 0,25%. Tính số khối của nguyên tử còn lại.",
+    "options": ["A. 51.", "B. 52.", "C. 54.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Phần trăm đồng vị thứ 2 = 100% - 0,25% = 99,75%. Gọi x là số khối cần tìm, ta có phương trình \\(\\overline{A_{V}}.100= 50.0,25+x.99,75=50,9975.100 \\Rightarrow x=51 \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tử khối trung bình của Silver (bạc) là 107,87. Trong tự nhiên Silver có 2 đồng vị, trong đó \\(^{109}_{47}Ag\\) chiếm 44%. Xác định số khối của đồng vị còn lại.",
+    "options": ["A. 106.", "B. 107.", "C. 108.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Phần trăm đồng vị thứ 2 = 100% - 44% = 56%. Gọi x là số khối cần tìm, ta có phương trình \\(\\overline{A_{Ag}}.100= 109.44+x.56=107,87.100 \\Rightarrow x=107 \\)(làm tròn đến hàng đơn vị) (Chuyên đề 2)"
+  },
+  {
+    "question": "Biết rằng nguyên tố agon có ba đồng vị khác nhau, ứng với số khối 36, 38 và A. Phần trăm các đồng vị tương ứng lần lượt bằng : 0,34% ; 0,06% và 99,6%. Tính số khối của đồng vị A của nguyên tố agon, biết rằng nguyên tử khối trung bình của agon bằng 39,98.",
+    "options": ["A. 37.", "B. 39.", "C. 40.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi A là số khối cần tìm, ta có phương trình \\(\\overline{A_{Ar}}.100= 36.0,34+38.0,06+A.99,6=39,98.100 \\Rightarrow x=40 \\)(làm tròn đến hàng đơn vị) (Chuyên đề 2)"
+  },
+  {
+    "question": "Neon có 3 đồng vị bền trong tự nhiên, tỉ lệ phần trăm số nguyên tử mỗi đồng vị: \\(^xNe (90,9\\%)\\), \\(^{21}Ne (0,3\\%)\\) và \\(^{22}Ne (8,8\\%)\\). Biết rằng nguyên tử khối trung bình của Ne là 20,18. Tính giá trị x.",
+    "options": ["A. 17.", "B. 18.", "C. 19.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x là số khối cần tìm, ta có phương trình \\(\\overline{A_{Ne}}.100= x.90,9+21.0,3+22.8,8=20,18.100 \\Rightarrow x=20 \\)(làm tròn đến hàng đơn vị) (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tố X có 3 đồng vị là \\(X_1\\) chiếm 92,23%, \\(X_2\\) chiếm 4,67% và \\(X_3\\) chiếm 3,10%. Tổng số khối của 3 đồng vị là 87. Số neutron trong \\(X_2\\) nhiều hơn trong \\(X_1\\) là 1 hạt. Nguyên tử khối trung bình của X là 28,11. Hãy tìm số khối của \\(X_1, X_2, X_3\\).",
+    "options": ["A. 28; 29; 30.", "B. 27; 28; 29.", "C. 26; 27; 28.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Ta có hệ phương trình \\(\\left\\{\\begin{matrix} X_1+X_2+X_3=87 \\\\ 92,23.X_1+4,67.X_2+3,1.X_3=28,11.100 \\\\ -X_1+X_2=1 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} X_1=28 \\\\ X_2=29 \\\\ X_3=30 \\end{matrix}\\right. \\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Carbon có 2 đồng vị bền. Đồng vị thứ nhất có 6 proton, 7 neutron, chiếm 1,11%. Đồng vị thứ hai có ít hơn đồng vị thứ nhất 1 neutron. Tính nguyên tử khối trung bình của Carbon.",
+    "options": ["A. 12,00.", "B. 12,01.", "C. 12,02.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Số khối đồng vị thứ nhất = 6 + 7 = 13. Số khối đồng vị thứ hai = 13 - 1 = 12. \\(\\Rightarrow \\overline{A_{C}}= \\dfrac{13.1,11+12.(100-1,11)}{100}=12,01\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Đồng có hai đồng vị bền. Đồng vị thứ 1 có 29 proton và 36 neutron, chiếm 30,8%. Đồng vị thứ 2 có ít hơn đồng vị thứ nhất 2 neutron. Tính nguyên tử khối trung bình của đồng.",
+    "options": ["A. 63,661.", "B. 63,166.", "C. 63,616.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Số khối đồng vị thứ nhất = 29 + 36 = 65. Số khối đồng vị thứ hai = 65 - 2 = 63. \\(\\Rightarrow \\overline{A_{Cu}}= \\dfrac{65.30,8+63.(100-30,8)}{100}=63,616\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tố X có 2 đồng vị, đồng vị \\(X_1\\) có tổng hạt là 92 trong đó hạt mang điện nhiều hơn hạt không mang điện là 24. Tính số hiệu nguyên tử và số khối của đồng vị này. Đồng vị \\(X2\\) có số khối nhiếu \\(X_1\\) là 2 neutron. Trong tự nhiên \\(X_1\\) chiếm 73%. Tính nguyên tử khối trung bình của X.",
+    "options": ["A. 63,45.", "B. 63,46.", "C. 63,47.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Số \\(p = e =\\dfrac{92+24}{2.2}=29;n=29.2-24=34\\). Số khối đồng vị thứ nhất = 29 + 34 = 63. Số khối đồng vị thứ hai = 63 + 2 = 65. \\(\\Rightarrow \\overline{A_{Cu}}= \\dfrac{63.73+65.(100-73)}{100}=63,54\\) (Chuyên đề 2)"
+  },
+  {
+    "question": "Một nguyên tố X có hai đồng vị với tỉ lệ số nguyên tử là \\(\\dfrac{27}{23}\\). Hạt nhân nguyên tử X có 35 proton. Trong nguyên tử của đồng vị thứ nhất có 44 neutron. Số neutron trong nguyên tử của đồng vị thứ hai nhiều hơn trong đồng vị thứ nhất là 2 neutron. Tính nguyên tử khối trung bình của nguyên tố X.",
+    "options": ["A. 79,92.", "B. 79,20.", "C. 78,90.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Số khối đồng vị thứ nhất = 35 + 44 = 79. Số khối đồng vị thứ hai = 79 + 2 = 81. \\(\\Rightarrow \\overline{A_{X}}= \\dfrac{79.27+81.23}{27+23}=79,92\\). (Lấy theo tỷ lệ của đề) (Chuyên đề 2)"
+  },
+  {
+    "question": "Nguyên tố A có hai đồng vị X và Y. Tỉ lệ số nguyên tử của X : Y là 45 : 455. Tổng số hạt trong nguyên tử của X bằng 32. X nhiều hơn Y là 2 neutron. Trong Y số hạt mang điện gấp 2 lần số hạt không mang điện. Tính nguyên tử lượng trung bình của A.",
+    "options": ["A. 20,17.", "B. 20,18.", "C. 20,19.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Tổng số hạt của Y = 32 - 2 = 30 = 2p + n và Y có 2p = 2n => Y có số p = e = n = 10. Số khối của Y = 10 + 10 = 20. Số khối của X = 20 + 2 = 22. \\(\\Rightarrow \\overline{A_{A}}= \\dfrac{22.45+20.455}{45+455}=20,18\\). (Lấy theo tỷ lệ của đề) (Chuyên đề 2)"
+  },
+  {
+    "question": "Hỗn hợp hai đồng vị có nguyên tử khối trung bình là 40,08, hai đồng vị này có số n hơn kém nhau là 2. Đồng vị có số khối nhỏ hơn chiếm 96%, còn lại là % các nguyên tử có số khối lớn hơn. Xác định số khối của mỗi đồng vị?",
+    "options": ["A. 39 và 42.", "B. 39 và 41.", "C. 40 và 42.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x là số khối của đồng vị có số khỏi nhỏ hơn => Số khối của đồng vị còn lại là x + 2. Ta có phương trình \\(\\Rightarrow \\overline{A}= \\dfrac{x.96+(x+2).(100-96)}{100}=40,08 \\Rightarrow x=40\\). (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên Boron (B) có hai đồng vị: \\(^{10}_{5}B\\) và \\(^{11}_{5}B\\). Nguyên tử khối trung bình của Boron 10,81. Tính phần trăm của mỗi đồng vị.",
+    "options": ["A. 22% và 78%.", "B. 21% và 79%.", "C. 20% và 80%.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x là phần trăm của đồng vị \\(^{10}_{5}B\\) => Số khối của đồng vị \\(^{11}_{5}B\\) là 100 - x. Ta có phương trình \\(\\Rightarrow \\overline{A_{B}}.100= 10.x+11.(100-x)=10,81.100 \\Rightarrow x=19 \\Rightarrow 100-x=81 \\). (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên đồng vị \\(^{37}_{17}Cl\\) chiếm 24,23% số nguyên tử. Tính thành phần phần trăm về khối lượng \\(^{37}_{17}Cl\\) có trong \\(HClO_4\\) (với H là đồng vị \\(^{1}_{1}H\\); O là đồng vị \\(^{16}_{8}O\\))?",
+    "options": ["A. 8,92%.", "B. 8,65%.", "C. 8,56%.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "\\(\\Rightarrow \\%m_{^{37}_{17}Cl}= \\dfrac{37.24,23%}{1+35,485+16.4} \\approx 8,92% \\). (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong tự nhiên, nguyên tố chlorine có 2 đồng vị là \\(^{35}Cl\\) và \\(^{37}Cl\\). Nguyên tử khối trung bình của chlorine là 35,5. Trong hợp chất \\(HClO_x\\), nguyên tử đồng vị \\(^{35}Cl\\) chiếm 26,12% về khối lượng. Xác định công thức phân tử của hợp chất \\(HClO_x\\).",
+    "options": ["A. \\(HClO_2\\).", "B. \\(HClO_4\\).", "C. \\(HClO_3\\).", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi a và b lần lượt là % của \\(^{35}Cl\\) và \\(^{37}Cl\\). Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} a+b=100 \\\\ 35.a+37.b=35,5.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} a=75 \\\\ b=25 \\end{matrix}\\right. \\). Từ đó suy ra \\(\\Rightarrow \\%m_{^{35}_{17}Cl}= \\dfrac{35.75%}{1+35,5+16.x} \\approx 26,12\\% \\Rightarrow x=4 \\). (Chuyên đề 2)"
+  },
+  {
+    "question": "Hydrogen có nguyên tử khối là 1,008. Hỏi có bao nhiêu nguyên tử của đồng vị \\(^{2}_{1}H\\) trong 1 ml nước (cho rằng trong dihydrogen monoxide (\\(H_2O\\)) chỉ có đồng vị \\(^{1}_{1}H\\) và \\(^{2}_{1}H\\) )? (Cho khối lượng riêng của nước là 1 g/ml và nguyên tử khối của oxygen là 16).",
+    "options": ["A. \\(3,01.10^{23}\\).", "B. \\(2,67.10^{20}\\).", "C. \\(5,35.10^{20}\\).", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x và y lần lượt là % của \\(^{1}H\\) và \\(^{2}H\\). Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} x+y=100 \\\\ 1.x+2.y=1,008.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=99,2 \\\\ y=0,8 \\end{matrix}\\right. \\). Mặt khác ta có: \\(m_{H_2O}=V.d=1.1=1(g) \\Rightarrow n_{H_2O}=\\dfrac{m_{H_2O}}{M_{H_2O}}=\\dfrac{1}{1.2+16}=\\dfrac{1}{18}mol \\Rightarrow n_H=2.n_{H_2O}=\\dfrac{1}{9}mol \\). 1 mol H chứa \\(0,8\\%.6,02.10^{23}\\) đồng vị \\(^{2}H\\) nên \\(\\dfrac{1}{9}\\)mol chứa \\(\\dfrac{0,8\\%.6,02.10^{23}}{9} \\approx 5,35.10^{20}\\) đồng vị \\(^{2}H\\). (Chuyên đề 2)"
+  },
+  {
+    "question": "Copper (đồng) là loại vật dụng dễ dát mỏng và uốn lượn, có khả năng dẫn điện, dẫn nhiệt tốt. Vì thế đồng đồng được sử dụng rất nhiều trong sản xuất nguyên liệu. Các đồ dùng từ đồng như: dây điện, que hàn đồng, tay cầm và các đồ dùng nội thất trong nhà, các tượng đúc, nam châm điện, các động cơ máy móc, và còn rất nhiều nữa... Trong tự nhiên, Copper có hai đồng vị bền \\(^{65}_{29}Cu\\) và \\(^{63}_{29}Cu\\). Nguyên tử khối trung bình của đồng là 63,54. Biết thành phần phần trăm khối lượng đồng vị \\(^{63}_{29}Cu\\) trong \\(CuSO_4\\) là 28,287%. Tính phần trăm của đồng vị \\(^{65}_{29}Cu\\) có trong \\(CuSO_4\\).",
+    "options": ["A. 14,06%.", "B. 10,64%.", "C. 10,46%.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x và y lần lượt là % của \\(^{63}Cu\\) và \\(^{65}Cu\\). Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} x+y=100 \\\\ 63.x+65.y=63,54.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=73 \\\\ y=27 \\end{matrix}\\right. \\). Suy ra: \\(\\Rightarrow \\%m_{^{65}_{29}Cu}=\\dfrac{\\%m_{^{65}_{29}Cu}.27}{73}=\\dfrac{28,287%.27}{73} \\approx 10,46% \\). (Chuyên đề 2)"
+  },
+  {
+    "question": "Khối lượng nguyên tử trung bình của Bo là 10,18 (amu). Bo trong tự nhiên có 2 đồng vị \\(^{10}_{5}B\\) và \\(^{11}_{5}B\\). Hỏi có bao nhiêu phần trăm khối lượng đồng vị \\(^{10}_{5}B\\) trong phân tử \\(H_3BO_3\\).",
+    "options": ["A. 34,1%.", "B. 3,14%.", "C. 14,3%.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 2,
+    "explanation": "Gọi x và y lần lượt là % của \\(^{10}_{5}Bo\\) và \\(^{11}_{5}Bo\\). Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} x+y=100 \\\\ 10.x+11.y=10,18.100 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=82 \\\\ y=18 \\end{matrix}\\right. \\). Suy ra: \\(\\Rightarrow \\%m_{^{10}_{5}Bo}=\\dfrac{10.82%}{1.3+10,18+16.3} \\approx 13,4% \\). (Chuyên đề 2)"
+  },
+  {
+    "question": "Trong cùng một hàng của bảng tuần hoàn, tính từ trái sang phải thì",
+    "options": ["A. Các nguyên tử có cùng số lớp electron, số electron ở lớp ngoài cùng tăng dần.", "B. Các nguyên tử có cùng số electron ở lớp ngoài cùng, số lớp electron tăng dần.", "C. Các nguyên tử có cùng số lớp electron, số electron ở lớp ngoài cùng giảm dần.", "D. Các nguyên tử có cùng số electron ở lớp ngoài cùng, số lớp electron giảm dần."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Trong cùng một hàng, tính từ trái sang phải: Các nguyên tử có cùng số lớp electron, số electron ở lớp ngoài cùng tăng dần. (Chuyên đề 3)"
+  },
+  {
+    "question": "Trong cùng một cột của bảng tuần hoàn, tính từ trên xuống dưới thì",
+    "options": ["A. Các nguyên tử có cùng số lớp electron, số electron ở lớp ngoài cùng tăng dần.", "B. Các nguyên tử có cùng số electron ở lớp ngoài cùng, số lớp electron tăng dần.", "C. Các nguyên tử có cùng số lớp electron, số electron ở lớp ngoài cùng giảm dần.", "D. Các nguyên tử có cùng số electron ở lớp ngoài cùng, số lớp electron giảm dần."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Trong cùng một cột, tính từ trên xuống dưới: Các nguyên tử có cùng số electron ở lớp ngoài cùng, số lớp electron tăng dần. (Chuyên đề 3)"
+  },
+  {
+    "question": "Sử dụng bảng tuần hoàn, hãy cho biết các nguyên tố nào trong số các nguyên tố Li, Na, C, O có cùng số lớp electron trong nguyên tử?",
+    "options": ["A. Li, Na, O.", "B. Li, Na, C.", "C. Li, C, O.", "D. Na, C, O."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Trong 4 nguyên tố: Li, Na, C, O có 3 nguyên tố trong cùng 1 hàng đó là: Li, C, O đều nằm ở hàng thứ 2 => 3 nguyên tố Li, C, O đều có 2 lớp electron. (Chuyên đề 3)"
+  },
+  {
+    "question": "Dựa vào bảng tuần hoàn, hãy cho biết trong số các nguyên tố: Na, K, Mg, Ba, Be, B, C, N, O, Ar, có bao nhiêu nguyên tố nào thuộc cùng chu kì 2?",
+    "options": ["A. 6.", "B. 3.", "C. 4.", "D. 5."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Các nguyên tố: Na, Mg, Ar thuộc cùng một chu kì 3. Các nguyên tố Be, B, C, N, O thuộc cùng một chu kì 2. (Chuyên đề 3)"
+  },
+  {
+    "question": "Dựa vào bảng tuần hoàn, hãy cho biết trong số các nguyên tố: Na, Cl, Fe, K, Kr, Mg, Ba, C, N, S, Ar, những nguyên tố nào là kim loại.",
+    "options": ["A. Na, Fe, K, Mg, Ba.", "B. Cl, C, N, S.", "C. Kr, Ar.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Các nguyên tố kim loại: Na, Fe, K, Mg, Ba. Các nguyên tố phi kim: Cl, C, N, S. Các nguyên tố khí hiếm: Kr, Ar. (Chuyên đề 3)"
+  },
+  {
+    "question": "Chọn câu sai về bảng tuần hoàn",
+    "options": ["A. Các nguyên tố hóa học được xếp theo chiều tăng dần của điện tích hạt nhân.", "B. Các nguyên tố phóng xạ nằm ở đầu bảng.", "C. Các nguyên tố trong cùng một hàng có cùng số lớp electron trong nguyên tử.", "D. Các nguyên tố trong cùng cột có tính chất gần giống nhau."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Hầu hết các nguyên tố có số nguyên tử lớn, nằm ở cuối bảng tuần hoàn mới là các nguyên tố có tính phóng xạ. (Chuyên đề 3)"
+  },
+  {
+    "question": "Biết nguyên tử của nguyên tố M có 2 electron ở lớp ngoài cùng và có 3 lớp electron. Hãy xác định vị trí của M trong bảng tuần hoàn (ô, chu kì, nhóm).",
+    "options": ["A. M thuộc ô số 10, nằm ở nhóm IIA, chu kì 3.", "B. M thuộc ô số 11, nằm ở nhóm IIA, chu kì 3.", "C. M thuộc ô số 12, nằm ở nhóm IIA, chu kì 3.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Nguyên tử M có 2 electron ở lớp ngoài cùng => M nằm ở nhóm IIA. Nguyên tử M có 3 lớp electron => M nằm ở chu kì 3 (Chuyên đề 3)"
+  },
+  {
+    "question": "Nguyên tố X (Z = 11) là nguyên tố có trong thành phần của muối ăn. Hãy cho biết X có bao nhiêu lớp electron, bao nhiêu electron ở lớp ngoài cùng?",
+    "options": ["A. X có 2 lớp electron, 2 electron ở lớp ngoài cùng.", "B. X có 3 lớp electron, 2 electron ở lớp ngoài cùng.", "C. X có 2 lớp electron, 3 electron ở lớp ngoài cùng.", "D. X có 3 lớp electron, 1 electron ở lớp ngoài cùng."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "X là sodium hay natri, kí hiệu hóa học là Na. Na có 3 lớp electron, 1 electron ở lớp ngoài cùng. (Chuyên đề 3)"
+  },
+  {
+    "question": "Nguyên tố Y trong bảng tuần hoàn có vỏ nguyên tử có 2 lớp electron, trong đó lớp ngoài cùng có 4 electron. Từ đó cho biết Y là kim loại, phi kim hay khí hiếm?",
+    "options": ["A. Phi kim.", "B. Kim loại.", "C. Khí hiếm.", "D. Vừa là kim loại, vừa là phi kim."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Y có 2 lớp electron nên thuộc chu kì 2; lớp ngoài cùng có 4 electron nên thuộc nhóm IVA. Vì Y thuộc nhóm IVA, chu kì 2 nên Y là phi kim. (Chuyên đề 3)"
+  },
+  {
+    "question": "X là nguyên tố cần thiết cho quá trình hô hấp của sinh vật, nếu thiếu nguyên tố này sự cháy không thể xảy ra. Nguyên tố X là kim loại, phi kim hay khí hiếm?",
+    "options": ["A. Kim loại.", "B. Phi kim.", "C. Khí hiếm.", "D. Vừa là kim loại, vừa là phi kim."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Oxygen là nguyên tố cần thiết cho quá trình hô hấp của sinh vật, nếu thiếu nguyên tố này sự cháy không thể xảy ra. Oxy là phi kim. (Chuyên đề 3)"
+  },
+  {
+    "question": "Hai nguyên tố A, B đứng kế tiếp nhau trong cùng một chu kì trong bảng tuần hoàn, có tổng điện tích hạt nhân là 25. Xác định A, B là kim loại hay phi kim?",
+    "options": ["A. Khí hiếm.", "B. Phi kim.", "C. Kim loại.", "D. Vừa là kim loại, vừa là phi kim."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Gọi a và b lần lượt là số hiệu của A và B. Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} x-y=-1 \\\\ x+y=25 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} x=12(Mg) \\\\ y=13(Al) \\end{matrix}\\right. \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "X và Y là hai nguyên tố thuộc cùng một phân nhóm và ở hai chu kì liên tiếp trong bảng hệ thống tuần hoàn. Tổng số các hạt mang điện trong nguyên tử X và Y là 52. Xác định số thứ tự của nguyên tử X và Y.",
+    "options": ["A. 11 và 13.", "B. 12 và 14.", "C. 4 và 22.", "D. 9 và 17."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Tổng số hạt mang điện trong 2 nguyên tử X, Y là 52 \\(\\Rightarrow 2Z_X + 2Z_Y = 52 \\Rightarrow Z_X + Z_Y = 26 (I)\\) </br> TH1: \\(Z_X – Z_Y = 2 (II)\\) (X, Y phải thuộc chu kì 1, 2). Từ \\( (I) \\& (II) \\Rightarrow Z_X =14; Z_Y = 12\\) (loại) </br> TH2: \\(Z_X – Z_Y = 8 (III)\\). Từ \\( (I) \\& (III) \\Rightarrow Z_X = 17, Z_Y = 9 \\Rightarrow \\) X là Cl: X thuộc chu kì 3 nhóm VIIA. Y là F: Y thuộc chu kì 2 nhóm VIIA </br> TH3: \\(Z_X – Z_Y = 18 (IV)\\) (X, Y thuộc từ chu kì 4 trở đi). Từ \\((I) \\& (IV) \\Rightarrow Z_X =22; Z_Y = 4\\) (loại) </br> TH4: \\(Z_X – Z_Y = 32\\) (loại vì 32 > 26). (Chuyên đề 3)"
+  },
+  {
+    "question": "X và Y là hai nguyền tố thuộc hai chu kì liên tiếp nhau và cùng thuộc một nhóm A, trong đó X có điện tích hạt nhân nhỏ hơn Y. Tổng số proton trong hạt nhân nguyên tử của X và Y là 22. Xác định hai nguyên tố X, Y.",
+    "options": ["A. N và P.", "B. P và C.", "C. O và S.", "D. F và Cl."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Theo đề bài, ta có: \\(Z_X + Z_Y = 22 (1)\\).</br> Nếu X, Y thuộc hai chu kì nhỏ thì \\((Z_X < Z_Y): Z_Y = Z_X + 8 (2)\\). Từ \\((1) \\& (2) \\Rightarrow Z_X = 7; Z_Y = 15.\\) Vậy X là N, Y là P.</br> Nếu X thuộc chu kì nhỏ và Y thuộc chu kì lớn thì: \\(Z_Y = Z_X + 18 (3)\\). Từ \\((1) \\& (3) \\Rightarrow Z_X = 2; Z_Y = 20\\) (loại vì không thảo mãn đề bài). </br> Nếu X, Y thuộc hai chu kì lớn: \\(Z_Y = Z_X + 32 (4)\\). Từ \\((1) \\& (4) \\Rightarrow ZX < 0\\) (loại) (Chuyên đề 3)"
+  },
+  {
+    "question": "Tổng số hạt trong nguyên tử M là 18. Nguyên tử M có tổng số hạt mang điện gấp đôi số hạt không mang điện. M là nguyên tố nào trong bảng tuần hoàn?",
+    "options": ["A. Ca.", "B. C.", "C. F.", "D. Ar."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p+n=18 \\\\ 2p-2n=0 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=6(C) \\\\ n=6 \\end{matrix}\\right. \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Một nguyên tử Y có tổng các hạt (proton, nơtron và electron) là 54, trong đó số hạt mang điện gấp 1,7 lần số hạt không mang điện. Xác định số thứ tự của Y trong bảng tuần hoàn?",
+    "options": ["A. 36.", "B. 34.", "C. 17.", "D. 18."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p+n=54 \\\\ 2p-1,7n=0 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=17(Cl) \\\\ n=20 \\end{matrix}\\right. \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Một hợp chất khí của R với H có công thức là RH3, trong đó R chiếm 91,1765% về khối lượng. Xác định nguyên tố R.",
+    "options": ["A. Al.", "B. C.", "C. N.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Gọi R là nguyên tử khối của R. \\(\\Rightarrow \\dfrac{\\%m_{R}}{\\%m_{H}}=\\dfrac{R}{1.3} \\Leftrightarrow \\dfrac{91,1765}{100-91,1765}=\\dfrac{R}{3} \\Rightarrow R=31(P)\\). (làm tròn đến hàng đơn vị) (Chuyên đề 3)"
+  },
+  {
+    "question": "Cho các nguyên tố sau: P, Ba, Rb, Cu, Fe, Ne, Si. Sử dụng bảng tuần hoàn, hãy cho biết trong các nguyên tố trên, có bao nhiêu nguyên tố là kim loại?",
+    "options": ["A. 4.", "B. 3.", "C. 2.", "D. 1."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 3,
+    "explanation": "Các nguyên tố kim loại là: Ba, Rb, Cu, Fe. Các nguyên tố phi kim là: P, Si. (Chuyên đề 3)"
+  },
+  {
+    "question": "Nguyên tố X có cấu tạo như sau: điện tích hạt nhân là 11+, 3 lớp electron, lớp ngoài cùng có 1 electron. Tính chất hóa học cơ bản của X là?",
+    "options": ["A. Khí hiếm.", "B. Tính kim loại mạnh.", "C. Tính phi kim mạnh.", "D. Tính kim loại yếu."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Nguyên tố X có số hiệu nguyên tử là 11, đó là Na. Nguyên tố X ở chu kì 3, do đó có 3 lớp electron. Nguyên tố X ở nhóm I có 1e lớp vỏ ngoài cùng, nguyên tố A ở đầu chu kì nên có tính kim loại mạnh. (Chuyên đề 3)"
+  },
+  {
+    "question": "Tổng số hạt cơ bản trong 1 nguyên tử X là 40, số hạt mang điện nhiều hơn số hạt không mang điện là 12. Tìm tên nguyên tố X.",
+    "options": ["A. K.", "B. Si.", "C. Al.", "D. Ca."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p+n=40 \\\\ 2p-n=12 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=13(Al) \\\\ n=14 \\end{matrix}\\right. \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Nguyên tử X có tổng số hạt electron, proton, nơtron bằng 46. Số hạt không mang điện bằng \\(\\dfrac{8}{15}\\) số hạt mang điện. Nguyên tử X thuộc nguyên tố hóa học nào?",
+    "options": ["A. S.", "B. Sc.", "C. Ca.", "D. P."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p+n=46 \\\\ 8.2p-15.n=0 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=15(P) \\\\ n=16 \\end{matrix}\\right. \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Tổng số hạt p, e, n trong nguyên tử X là 28, trong đó số hạt không mang điện chiếm xấp xỉ 35,7%. Cho biết tên nguyên tử X.",
+    "options": ["A. F.", "B. Si.", "C. Cl.", "D. Ni."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Số hạt không mang điện: \\(n=28.35,7\\%=10\\) (làm tròn đến hàng đơn vị). Số hạt proton: \\(p=\\dfrac{28-10}{2}=9 \\Rightarrow X:F \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Tổng số hạt p, e, n trong nguyên tử Y là 49, trong đó số hạt mang điện chiếm xấp xỉ 65,3%. Cho biết tên nguyên tử Y.",
+    "options": ["A. S.", "B. Cl.", "C. F.", "D. Si."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Số hạt mang điện: \\(e=p=\\dfrac{49.65,3\\%}{2}=16(S)\\) (làm tròn đến hàng đơn vị). (Chuyên đề 3)"
+  },
+  {
+    "question": "Nguyên tử X có tổng số hạt là 13, số hạt không mang điện bằng 62,5% số hạt mang điện. Xác định tên của X.",
+    "options": ["A. Al.", "B. Be.", "C. C.", "D. N."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p+n=13 \\\\ 62,5.2p-100.n=0 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=4(Be) \\\\ n=5 \\end{matrix}\\right. \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Nguyên tử X có tổng các hạt là 13. Cho biết tên nguyên tố X.",
+    "options": ["A. Al.", "B. C.", "C. Be.", "D. N."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "\\( p + e + n = 13 \\leftrightarrow 2p + n = 13\\) (với p, n, e là số nguyên dương)</br>- Với \\(p \\le n \\to\\) (coi p=n để thay vào biểu thức trên)</br> \\(\\to 2p + p \\le 13 \\to p \\le \\frac{{13}}{3} = 4,3\\)</br> - Với \\(1,5p \\ge n \\to 2p + 1,5p \\ge 13 \\to p \\ge \\frac{{13}}{{3,5}} = 3,7\\)</br> \\(\\to 3,7 \\le p \\le 4,3\\) (với p, n, e là số nguyên dương) \\(\\to p=4=e\\)</br> \\(\\to 2p + n = 13 \\to n = 13 - 2.4 = 5\\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Hai nguyên tử A và B có tổng số hạt proton, nơtron, electron là 78, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 26. Số hạt mang điện của nguyên tử A nhiều hơn số hạt mang điện của nguyên tử B là 28. Hãy xác định hai nguyên tố A và B. Cho biết số hiệu nguyên tử của một số nguyên tố như sau: \\(Z_N = 7; Z_{Na} = 11; Z_{Ca} = 20; Z_{Fe} = 26; Z_{Cu} = 29; Z_C = 6; Z_S = 16.\\)",
+    "options": ["A. K và N.", "B. K và C.", "C. Ca và N.", "D. Ca và C."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 3,
+    "explanation": "Mấu chốt bài toán:  Nếu xác định được tổng số proton của A,B thì kết hợp với hiệu số hạt mang điện trong 2 nguyên tử sẽ tìm được số proton của mỗi nguyên tử.</br>Gọi p, p’ lần lượt là số proton của A, B. n, n’ lần lượt là số nơtron của A,B. Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2(p+p')+(n+n')=54 \\\\ 2(p+p')-(n+n')=26 \\\\ 2p-2p'=28 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p+p'=26 \\\\ p-p'=14 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=20(Ca) \\\\ p'=6(C) \\end{matrix}\\right. \\). (Chuyên đề 3)"
+  },
+  {
+    "question": "Trong số các chất sau: \\(O_2, CO_2, KMnO_4, Fe, O_3, KNO_3, BaCl_2, H_2, Mg, NaOH, Ca(HCO_3)_2, Fe(OH)_2, Fe(OH)_3, BaSO_4, Fe_2(SO_4)_3, Br_2, Mn\\) có bao nhiêu chất là đơn chất?",
+    "options": ["A. 7.", "B. 6.", "C. 5.", "D. 4."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Đơn chất (có 1 nguyên tố tạo thành): \\(O_2, Fe, O_3, H_2, Mg, Br_2, Mn\\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Chất \\(Cu_xS_yO_z\\) được tạo thành từ sự liên kết của 1 nguyên tử copper, 1 nguyên tử sulfur và 4 nguyên tử oxygen. Vậy x, y, z bằng bao nhiêu?",
+    "options": ["A. x=2; y=2; z=4.", "B. x=1; y=1; z=4.", "C. x=1; y=1; z=1.", "D. x=2; y=2; z=2."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Chất đó là: \\(CuSO_4\\) với x=1 (đồng); y=1 (lưu huỳnh) và z=4 (oxi). (Chuyên đề 4)"
+  },
+  {
+    "question": "Chất \\(Mg_x(HCO_3)_y\\) được tạo thành từ sự liên kết của 1 nguyên tử magnesium, 2 nguyên tử hydrogen, 2 nguyên tử carbon và 6 nguyên tử oxygen. Vậy x, y bằng bao nhiêu?",
+    "options": ["A. x=2; y=2.", "B. x=1; y=1.", "C. x=1; y=1.", "D. x=2; y=2."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Chất đó là: \\(Mg(HCO_3)_2\\) với x=1 (magie); y=2 ((HCO3)2: 2 hidro; 2 carbon và 6 oxy). (Chuyên đề 4)"
+  },
+  {
+    "question": "Quặng dolomit có thành phần chính là \\(Ca_xC_yO_z.Mg_xC_yO_z\\) biết chất được tạo thành từ: Số lượng nguyên tử Mg và Ca bằng nhau và bằng 1. Tổng số lượng nguyên tử C là 2. Tổng số lượng nguyên tử O là 6. Vậy x, y, z bằng bao nhiêu?",
+    "options": ["A. x=2; y=2; z=3", "B. x=1; y=1; z=6", "C. x=1; y=1; z=3", "D. x=2; y=2; z=6"],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Ta có x=1 vì số lượng Ca và Mg đều bằng 1.</br> Tổng số lượng C = y + y =2 => y = 1.</br> Tổng số lượng O = z + z = 6 => z = 3. (Chuyên đề 4)"
+  },
+  {
+    "question": "Chọn khẳng định đúng?",
+    "options": ["A. Nước cất gồm hai đơn chất là hydrogen và oxygen.", "B. Khí carbonic gồm 2 đơn chất là carbon và oxygen.", "C. Sulfuric acid gồm 3 đơn chất là hydrogen, sulfur (lưu huỳnh) và oxygen.", "D. Cả ba câu đều sai."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Cả ba câu đều sai do nước cất, khí carbonic và sulfuric acid đều là hợp chất. Nếu sửa lại thì thay 'đơn chất' thành 'nguyên tố hóa học'. (Chuyên đề 4)"
+  },
+  {
+    "question": "Khi đốt lưu huỳnh trong không khí, lưu huỳnh hóa hợp với oxygen tạo thành một chất khí có mùi hắc gọi là khí sulfurous. Hỏi khí sulfurous do những nguyên tố nào cấu tạo nên?",
+    "options": ["A. S và O.", "B. S và H.", "C. S, H và O.", "D. Cả ba câu đều sai."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Phương trình phản ứng: \\(S+O_2 \\xrightarrow{t°} SO_2\\). Do phản ứng hóa hợp chỉ có 1 chất được tạo thành nên \\(SO_2\\) gồm các nguyên tố của lưu huỳnh (S) và oxy (O). (Chuyên đề 4)"
+  },
+  {
+    "question": "Khi đun nóng, đường bị phân hủy, biến đổi thành than và nước. Như vậy, phân tử đường do những nguyên tử của nguyên tố nào tạo nên?",
+    "options": ["A. C và H.", "B. C, H và O.", "C. C, H, O và N.", "D. C, H, O, N và P."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Do đường (không tác dụng với chất khác) phân hủy thành than và nước. Than là C, nước chứa 2 nguyên tố H và O. Đường gồm C, H và O. Ví dụ phương trình đun phân hủy đường mía: \\(C_{12}H_{22}O_{11} \\xrightarrow{t°} 12C+11H_2O\\) (Chuyên đề 4)"
+  },
+  {
+    "question": "Calcium oxide do hai nguyên tố là Calcium và oxygen tạo nên. Khi bỏ Calcium oxide vào nước, nó hóa hợp với nước tạo thành một chất mới gọi là Calcium hydroxide. Calcium hydroxide gồm những nguyên tố nào trong hợp chất của nó?",
+    "options": ["A. Ca và H.", "B. Ca và O.", "C. Ca, O và H.", "D. Cả ba câu đều sai."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Phương trình phản ứng: \\(CaO+H_2O \\rightarrow Ca(OH)_2\\). Do phản ứng hóa hợp chỉ có 1 chất được tạo thành nên Calcium hydroxide sẽ gồm các nguyên tố của Calcium oxide (Ca và O) và nước (H và O). (Chuyên đề 4)"
+  },
+  {
+    "question": "Calcium carbonate khi bị nung nóng thì biến thành hai chất mới là Calcium oxide và khí carbonic. Vậy Calcium carbonate được cấu tạo bởi những nguyên tố nào?",
+    "options": ["A. C, O.", "B. Ca, C.", "C. Ca, O.", "D. Ca, C và O."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Do Calcium carbonate (không tác dụng với chất khác) phân hủy thành Calcium oxide và khí carbonic. Calcium oxide gồm Ca và C, khí carbonic gồm C và O. Calcium carbonate gồm Ca, C và O. Phương trình: \\(CaCO_3 \\xrightarrow{t°} CaO+CO_2\\) (Chuyên đề 4)"
+  },
+  {
+    "question": "Khi đốt cháy một chất A trong oxygen, người ta thu được một chất khí có công thức là SO2 và nước. Như vậy, chất A được cấu tạo bởi những nguyên tố nào? (Biết rằng trong chất A không có nguyên tố oxygen).",
+    "options": ["A. H và S.", "B. S và O.", "C. S, H và O.", "D. Cả ba câu đều sai."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Phương trình phản ứng: \\(2H_2S+3O_2 \\xrightarrow{t°} 2SO_2 + 2H_2O\\). Do phản ứng hóa hợp có 2 chất được tạo thành nên chất ban đầu gồm các nguyên tố SO2 (S và O) và nước (H và O). Nhưng vì đề cho chất ban đầu không chứa O nên còn S và H. (Chuyên đề 4)"
+  },
+  {
+    "question": "Trong số các chất sau: \\(Cl_2, ZnCl_2, Al_2O_3, Ca, NaNO_3, KOH\\) có bao nhiêu chất là đơn chất?",
+    "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tracnghiem",
+    "chuyenDe": 4,
+    "explanation": "Đơn chất (có 1 nguyên tố tạo thành): \\(Cl_2 và Ca\\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Tính khối lượng phân tử của chất \\(Ca(HCO_3)_2\\).",
+    "options": ["A. 122 amu.", "B. 126 amu.", "C. 162 amu.", "D. 166 amu."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "40 + (1 + 12 + 16 . 3) . 2 = 162 (amu). (Chuyên đề 4)"
+  },
+  {
+    "question": "Hợp chất B có trong “muối i-ốt” (công thức KI) được sử dụng trong thuốc điều trị bệnh cường giáp, nấm da và dùng làm thực phẩm chức năng,… Cho biết khối lượng phân tử của B.",
+    "options": ["A. 122 amu.", "B. 126 amu.", "C. 162 amu.", "D. 166 amu."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "39 + 127 = 166 (amu). (Chuyên đề 4)"
+  },
+  {
+    "question": "Một nguyên tử R có tổng số hạt là 46. Trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 14. Tính khối lượng phân tử của hợp chất tạo bởi 2 nguyên tử R liên kết với 5 nguyên tử oxygen.",
+    "options": ["A. 142 amu.", "B. 144 amu.", "C. 124 amu.", "D. 122 amu."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p+n=46 \\\\ 2p-n=14 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=15(P) \\\\ n=16 \\end{matrix}\\right. \\Rightarrow \\) 31 . 2 + 16 . 5 = 142 (amu). (Chuyên đề 4)"
+  },
+  {
+    "question": "Khối lượng phân tử của sodium nitrate là 85 amu. Trong đó có 1 nguyên tử Na có khối lượng nguyên tử là 23 amu, 1 nguyên tử nitrogen có khối lượng nguyên tử là 14 amu, còn lại là oxygen. Tìm công thức của hợp chất sodium nitrate.",
+    "options": ["A. \\(NaNO_4\\).", "B. \\(NaNO_3\\).", "C. \\(NaNO_2\\).", "D. \\(NaNO\\)."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Khối lượng O trong 1 phân tử = 85 - 23 - 14 = 48 (amu). Số O trong 1 phân tử \\(=\\dfrac{48}{16}= 3\\). => Công thức: \\(NaNO_3\\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Tính khối lượng nguyên tử của Photphoric acid (chứa 3 H, 1 P, 4 O).",
+    "options": ["A. 42 amu.", "B. 84 amu.", "C. 98 amu.", "D. 196 amu."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "3 . 1 + 1 . 31 + 4 . 16 = 98 (amu). (Chuyên đề 4)"
+  },
+  {
+    "question": "Nguyên tử lưu huỳnh nặng hơn nguyên tử oxygen bao nhiêu lần?",
+    "options": ["A. 5.", "B. 4.", "C. 3.", "D. 2."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "\\(\\dfrac{32}{16}=2\\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Hợp chất \\(Al_x(SO_4)_3\\) có phân tử khối là 342. Tìm x.",
+    "options": ["A. 2.", "B. 3.", "C. 4.", "D. 5."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "27 . x + (1 . 32 + 4 . 16). 3 = 342 (amu). => x = 2 (Chuyên đề 4)"
+  },
+  {
+    "question": "Phân tử của một hợp chất gồm nguyên tử nguyên tố X liên kết với 2 nguyên tử nguyên tố Oxygen nặng 44 amu. Cho biết tên kí hiệu của X.",
+    "options": ["A. Mg.", "B. C.", "C. S.", "D. N."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "1 . x + 2 . 16 = 44 (amu). => x = 12 (C) (Chuyên đề 4)"
+  },
+  {
+    "question": "Một oxide có công thức \\(Mn_2O_x\\) có khối lượng phân tử là 222. Tìm x?",
+    "options": ["A. 5.", "B. 6.", "C. 7.", "D. 8."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "2 . 55 + x . 16 = 222 (amu). => x = 7 (Chuyên đề 4)"
+  },
+  {
+    "question": "Phân tử M2O nặng hơn phân tử hydrogen 47 lần. Tính khối lượng nguyên tử của M. Viết tên, kí hiệu hóa học của M.",
+    "options": ["A. Na.", "B. N.", "C. H.", "D. K."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "2 . M + 1 . 16 = 47 . (2 . 1) (amu). => M = 39 (K) (Chuyên đề 4)"
+  },
+  {
+    "question": "Hợp chất X có công thức \\(AB_2\\) (A, B là 2 nguyên tố hóa học). Tổng số hạt mang điện có trong một phân tử X là 70. Số hạt mang điện trong nguyên tử A nhiều hơn nguyên tử B là 22. Tìm công thức của X.",
+    "options": ["A. \\(KO_2\\).", "B. \\(NaO_2\\).", "C. \\(CO_2\\).", "D. \\(SO_2\\)."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p_A+4p_B=70 \\\\ 2p_A-2p_B=22 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p_A=19(K) \\\\ p_B=8(O) \\end{matrix}\\right. \\Rightarrow potassium superoxide (KO_2) \\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Tổng các hạt mang điện trong hợp chất \\(A_2B\\) là 60. Số hạt mang điện trong hạt nhân nguyên tử A nhiều hơn số hạt mang điện trong hạt nhân nguyên tử B là 3. Hãy viết công thức phân tử của hợp chất trên. Hợp chất trên thuộc loại hợp chất gì?",
+    "options": ["A. \\(K_2O\\).", "B. \\(Na_2O\\).", "C. \\(K_2S\\).", "D. \\(Na_2S\\)."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 4p_A+2p_B=60 \\\\ p_A-p_B=3 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p_A=11(Na) \\\\ p_B=8(O) \\end{matrix}\\right. \\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Tìm CTHH của một chất lỏng B dễ bay hơi có thành phần phân tử là: 23,8% C; 5,9% H; 70,3% Cl và biết khối lượng phân tử của B gấp 2,805 lần khối lượng phân tử của nước.",
+    "options": ["A. \\(NH_3F\\).", "B. \\(NH_3Cl\\).", "C. \\(CH_3Cl\\).", "D. \\(CH_3F\\)."],
+    "answer": "C",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Khối lượng phân tử B = 2,805 . (2.1 + 1.16) = 50,5 amu. Số nguyên tử C trong B = \\(\\dfrac{50,5.23,8%}{12} = 1\\). Số nguyên tử H trong B = \\(\\dfrac{50,5.5,9%}{1} = 3\\). Số nguyên tử Cl trong B = \\(\\dfrac{50,5.70,3%}{35,5} = 1\\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Tổng số hạt proton, neutron và electron của một nguyên tố X là 52. Trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 16 hạt. Viết kí hiệu hóa học của nguyên tố X.",
+    "options": ["A. F.", "B. Al.", "C. Br.", "D. Cl."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 4,
+    "explanation": "Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2p+n=52 \\\\ 2p-n=16 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=17(Cl) \\\\ n=18 \\end{matrix}\\right. \\). (Chuyên đề 4)"
+  },
+  {
+    "question": "Nguyên tử Mg có 2 electron ở lớp vỏ ngoài cùng nên trong hợp chất ion nguyên tử có xu hướng nhường đi bao nhiêu electron để trở thành ion mang điện tích dương?",
+    "options": ["A. 2.", "B. 4.", "C. 1.", "D. 3."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Nguyên tử Mg có 2 electron ở lớp vỏ ngoài cùng nên trong hợp chất ion nguyên tử có xu hướng là nhường 2 electron này. Nguyên tử Mg cho đi 2 electron ở lớp ngoài cùng trở thành ion mang điện tích dương. (Chuyên đề 5)"
+  },
+  {
+    "question": "Nguyên tử S có 6 electron ở lớp ngoài cùng nên trong hợp chất ion sẽ có xu hướng nhận thêm bao nhiêu electron trở thành ion âm?",
+    "options": ["A. 4.", "B. 2.", "C. 3.", "D. 1."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Nguyên tử S có 6 electron ở lớp ngoài cùng nên trong hợp chất ion sẽ có xu hướng nhận thêm 2 electron trở thành ion âm. (Chuyên đề 5)"
+  },
+  {
+    "question": "Nguyên tử O có 6 electron ở lớp ngoài cùng nên trong hợp chất ion sẽ có xu hướng nhận thêm bao nhiêu electron trở thành ion âm?",
+    "options": ["A. 4.", "B. 2.", "C. 3.", "D. 1."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Nguyên tử O có 6 electron ở lớp ngoài cùng nên trong hợp chất ion sẽ có xu hướng nhận thêm 2 electron trở thành ion âm. (Chuyên đề 5)"
+  },
+  {
+    "question": "Liên kết được tạo thành bởi lực hút giữa 2 ion trái dấu được gọi là gì?",
+    "options": ["A. Liên kết chia hóa trị.", "B. Liên kết nhân hóa trị.", "C. Liên kết ion.", "D. Liên kết cộng hóa trị."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Liên kết ion là liên kết được tạo thành bởi lực hút giữa 2 ion trái dấu. (Chuyên đề 5)"
+  },
+  {
+    "question": "Liên kết được tạo thành bởi một hoặc nhiều đôi electron dùng chung giữa 2 nguyên tử được gọi là gì?",
+    "options": ["A. Liên kết chia hóa trị.", "B. Liên kết nhân hóa trị.", "C. Liên kết ion.", "D. Liên kết cộng hóa trị."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Liên kết cộng hóa trị là liên kết được tạo thành bởi một hoặc nhiều đôi electron dùng chung giữa 2 nguyên tử. (Chuyên đề 5)"
+  },
+  {
+    "question": "Ở điều kiện thường, các hợp chất ion như muối ăn, vôi sống... thường không có đặc điểm nào sau đây?",
+    "options": ["A. Nhiệt độ nóng chảy thấp.", "B. Khó bay hơi.", "C. Là chất rắn.", "D. Tan trong nước tạo thành dung dịch dẫn điện."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Ở điều kiện thường, các hợp chất ion như muối ăn, vôi sống... là chất rắn, khó bay hơi và nhiệt độ nóng chảy cao, khi tan trong nước tạo thành dung dịch dẫn diện. (Chuyên đề 5)"
+  },
+  {
+    "question": "Liên kết cộng hoá trị thường là liên kết giữa hai nguyên tử của nguyên tố ...?",
+    "options": ["A. Kim loại và kim loại.", "B. Phi kim và phi kim.", "C. Kim loại và phi kim.", "D. Phi kim và kim loại."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Liên kết cộng hoá trị thường là liên kết giữa hai nguyên tử của nguyên tố phi kim và phi kim. (Chuyên đề 5)"
+  },
+  {
+    "question": "Trong sự hình thành liên kết cộng hoá trị, để có được lớp vỏ electron bền vững tương tự ... gần nhất, các nguyên tử của nguyên tố phi kim có xu hướng góp chung electron?",
+    "options": ["A. Khí hiếm.", "B. Phi kim.", "C. Kim loại.", "D. Á kim."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Sự hình thành liên kết cộng hoá trị: Để có được lớp vỏ electron bền vững tương tự khí hiếm gần nhất, các nguyên tử của nguyên tố phi kim có xu hướng góp chung electron. (Chuyên đề 5)"
+  },
+  {
+    "question": "Trong sự tạo thành liên kết trong phân tử MgS, nguyên tử Mg nhường cho nguyên tử S bao nhiêu electron?",
+    "options": ["A. 1.", "B. 3.", "C. 2.", "D. 4."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Nguyên tử Mg có 2 electron ở lớp vỏ ngoài cùng nên trong hợp chất ion nguyên tử có xu hướng là nhường 2 electron này. Nguyên tử Mg cho đi 2 electron ở lớp ngoài cùng trở thành ion mang điện tích dương. (Chuyên đề 5)"
+  },
+  {
+    "question": "Trong sự tạo thành liên kết trong phân tử \\(Na_2O\\), 1 nguyên tử O nhận electron từ bao nhiêu nguyên tử Na?",
+    "options": ["A. 3.", "B. 1.", "C. 4.", "D. 2."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Trong sự tạo thành liên kết trong phân tử \\(Na_2O\\), 1 nguyên tử O nhận electron từ 2 nguyên tử Na. (Chuyên đề 5)"
+  },
+  {
+    "question": "Trong sự tạo thành liên kết trong phân tử KCl, nguyên tử K nhường cho nguyên tử Cl bao nhiêu electron?",
+    "options": ["A. 1.", "B. 3.", "C. 2.", "D. 4."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Trong sự tạo thành liên kết trong phân tử KCl, nguyên tử K nhường cho nguyên tử Cl 1 electron. (Chuyên đề 5)"
+  },
+  {
+    "question": "Nguyên tử S có 6 electron ở lớp ngoài cùng nên trong hợp chất ion sẽ có xu hướng nhận thêm bao nhiêu electron trở thành ion âm?",
+    "options": ["A. 4.", "B. 2.", "C. 3.", "D. 1."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Nguyên tử S có 6 electron ở lớp ngoài cùng nên trong hợp chất ion sẽ có xu hướng nhận thêm 2 electron trở thành ion âm. (Chuyên đề 5)"
+  },
+  {
+    "question": "Biết phân tử \\(X_2O\\) nặng hơn nguyên tử sulfur 1,9375 lần. Xác định nguyên tố \\(X, X_2O\\) là hợp chất ion hay chất cộng hoá trị?",
+    "options": ["A. Na, \\(Na_2O\\) là hợp chất cộng hóa trị.", "B. K, \\(K_2O\\) là hợp chất ion.", "C. Na, \\(Na_2O\\) là hợp chất ion.", "D. K, \\(K_2O\\) là hợp chất cộng hóa trị."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Khối lượng phân tử \\(X_2O = 32 . 1,9375 = 62 (amu) \\Leftrightarrow 2.X+16=62 \\Leftrightarrow X = 23(Na) \\Rightarrow Na_2O\\) là hợp chất ion. (Chuyên đề 5)"
+  },
+  {
+    "question": "Hợp chất Y có thành phần gồm hai nguyên tố C và O. Tỉ lệ khối lượng của C và O là 3:8; khối lượng phân tử của Y là 44 amu. Hãy xác định công thức hoá học của hợp chất và hợp chất Y là cộng hoá trị hay hợp chất ion?",
+    "options": ["A. S, \\(SO_2\\) là hợp chất cộng hóa trị.", "B. S, \\(SO_2\\) là hợp chất ion.", "C. C, \\(CO_2\\) là hợp chất ion.", "D. C, \\(CO_2\\) là hợp chất cộng hóa trị."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Đặt CTHH của Y là \\(C_xO_y\\). Theo đề bài ta có \\(\\dfrac{m_{C}}{m_{O}} = \\dfrac{12.x}{16.y} = \\dfrac{3}{8} \\Leftrightarrow \\dfrac{x}{y} = \\dfrac{3.16}{8.12} = \\dfrac{1}{2} \\Rightarrow CO_2\\) là hợp chất cộng hóa trị. (Chuyên đề 5)"
+  },
+  {
+    "question": "Khi làm thí nghiệm với hợp chất A, người ta thu được kết quả như sau: </br> - Thể (ở điều kiện thường): Chất rắn.</br> - Nhiệt độ nóng chảy: 810°C.</br> - Nhiệt độ bay hơi: 1413°C.</br> - Tính tan trong nước: Tan trong nước tạo thành dung dịch dẫn điện tốt.</br> Hợp chất A là hợp chất ion hay cộng hóa trị?",
+    "options": ["A. Hợp chất ion.", "B. Hợp chất cộng hóa trị.", "C. Chưa đủ thông tin để kết luận.", "D. Vừa là hợp chất ion, vừa là hợp chất cộng hóa trị."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Ở điều kiện thường, các hợp chất ion như muối ăn, vôi sống... là chất rắn, khó bay hơi và nhiệt độ nóng chảy cao, khi tan trong nước tạo thành dung dịch dẫn diện. (Chuyên đề 5)"
+  },
+  {
+    "question": "Oxygen là chất tạo bởi nguyên tố oxygen; phân tử oxygen do hai nguyên tử oxygen tạp nên; oxygen là chất khí, khong màu, không mùi, không vị, có khả năng duy trì sự cháy và sự sống. Carbon dioxide do một nguyên tử carbon liên kết với hai nguyên tử oxygen tạo nên; carbon dioxide là chất khí, không màu, không mùi, không vị, không duy trì sự cháy và sự sống. Oxygen và và carbon dioxide thuộc loại chất cộng hoá trị hay hợp chất ion và cách nào dưới đây có phân biệt chúng?",
+    "options": ["A. Cả hai đều là hợp chất cộng hóa trị, phân biệt bằng cách sục cả hai vào nước clo.", "B. Cả hai đều là hợp chất cộng hóa trị, phân biệt bằng cách cho tàn que đốm còn đỏ vào 2 lọ khí.", "C. Cả hai đều là hợp chất ion, phân biệt bằng cách sục cả hai vào nước clo.", "D. Cả hai đều là hợp chất ion, phân biệt bằng cách cho tàn que đốm còn đỏ vào 2 lọ khí."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "Cả hai đều thuộc chất cộng hóa trị. Cho tàn que đốm còn đỏ vào 2 lọ khí. Lọ nào làm tàn đốm bùng cháy là khí oxygen. Lọ nào làm tắt tàn đốm là khí carbon dioxide. (Chuyên đề 5)"
+  },
+  {
+    "question": "Trường hợp nào dưới đây không tạo ra liên kết ion hoặc liên kết cộng hóa trị?",
+    "options": ["A. Giữa các nguyên tử có sự góp chung electron khi tạo ra hợp chất.", "B. Các nguyên tử đã chuyển thành ion khi tạo ra hợp chất.", "C. Có sự chuyển proton từ nguyên tử này sang nguyên tử khác khi tạo ra hợp chất.", "D. Các nguyên tử phi kim hết hợp với nhau để tạo ra hợp chất."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tracnghiem",
+    "chuyenDe": 5,
+    "explanation": "A&D: Cộng hóa trị; B: ion; C: sai vì phải là dịch chuyển electron mới là hợp chất ion. (Chuyên đề 5)"
+  },
+  {
+    "question": "Trong phân tử nitrogen (\\(N_2\\)), mỗi nguyên tử N đưa bao nhiêu electron ra góp chung?",
+    "options": ["A. 2.", "B. 4.", "C. 1.", "D. 3."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "Lớp vỏ ngoài cùng của nguyên tử N có 5 electron => Để đạt được lớp vỏ 8 electron bền vững, mỗi nguyên tử N sẽ góp chung 8 - 5 = 3 electron tạo thành 3 cặp electron dùng chung. (Chuyên đề 5)"
+  },
+  {
+    "question": "Dựa vào hóa trị, hãy viết công thức hóa học của các chất có thành phần phân tử sau: </br> Chất A: H và O. </br> Chất B: Na và Cl. </br> Tính khối lượng phân tử của các hợp chất trên.",
+    "options": ["A. \\(H_2O(M=18);NaCl(M=58,5)\\).", "B. \\(HO(M=17);Na_2Cl(M=81,5)\\).", "C. \\(H_2O_2(M=34);NaCl_2(M=94)\\).", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "\\(M_{H_2O} = 16 + 1.2 = 18 (amu); M_{NaCl} = 23 + 35,5 = 58,5 (amu)\\). (Chuyên đề 5)"
+  },
+  {
+    "question": "Hợp chất A được tạo bởi 2 nguyên tố  là potassium (Kali) và chlorine, trong đó chlorine chiếm 47,65 % về khối lượng. Xác định công thức hóa học của hợp chất A và gọi tên A, biết hợp chất A nặng gấp 37,25 lần phân tử hydrogen.",
+    "options": ["A. \\(KCl\\) là hợp chất cộng hóa trị.", "B. \\(KCl\\) là hợp chất ion.", "C. \\(K_2Cl\\) là hợp chất ion.", "D. \\(K_2Cl\\) là hợp chất cộng hóa trị."],
+    "answer": "B",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 5,
+    "explanation": "\\(M_A=M_{H_2}.37,25=2.37,25=74,5(amu)\\) Đặt CTHH của A là \\(K_xCl_y\\). Theo đề bài ta có \\(x=\\dfrac{74,5.(100-47,65)\\%}{39}=1; y=\\dfrac{74,5.47,65\\%}{35,5}=1 \\Rightarrow KCl\\) là hợp chất ion. (Chuyên đề 5)"
+  },
+  {
+    "question": "Công thức hóa học không cho biết thông tin nào dưới đây?",
+    "options": ["A. Các nguyên tố hóa học tạo nên chất.", "B. Số lượng nguyên tử mỗi nguyên tố có trong một phân tử của chất.", "C. Độ bền hoặc cứng của chất.", "D. Khối lượng phân tử của chất."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 6,
+    "explanation": "Kim cương và than chì đều có chung công thức hóa học là C nhưng kim cương cứng hơn than chì. (Chuyên đề 6)"
+  },
+  {
+    "question": "Tổng phần trăm khối lượng của tất cả các nguyên tố trong cùng 1 hợp chất luôn bằng bao nhiêu?",
+    "options": ["A. 25%.", "B. 50%.", "C. 75%.", "D. 100%."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 6,
+    "explanation": "Tổng phần trăm khối lượng của tất cả các nguyên tố trong cùng 1 hợp chất luôn bằng 100%. (Chuyên đề 6)"
+  },
+  {
+    "question": "Con số biểu thị khả năng liên kết của nguyên tử nguyên tố này với nguyên tử nguyên tố khác được gọi là gì?",
+    "options": ["A. Hóa trị.", "B. Cộng hóa trị.", "C. Trừ hóa trị.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 6,
+    "explanation": "Hóa trị là con số biểu thị khả năng liên kết của nguyên tử nguyên tố này với nguyên tử nguyên tố khác. (Chuyên đề 6)"
+  },
+  {
+    "question": "Hóa trị của một nguyên tố trong hợp chất cộng hóa trị ... số cặp electron dùng chung của nguyên tử nguyên tố đó với nguyên tử nguyên tố khác.",
+    "options": ["A. Lớn hơn.", "B. Bằng.", "C. Nhỏ hơn.", "D. Gấp 2 lần."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 6,
+    "explanation": "Hóa trị của một nguyên tố trong hợp chất cộng hóa trị bằng số cặp electron dùng chung của nguyên tử nguyên tố đó với nguyên tử nguyên tố khác. (Chuyên đề 6)"
+  },
+  {
+    "question": "Nguyên tố nào dưới đây có thể có nhiều hơn 2 hóa trị?",
+    "options": ["A. Fe.", "B. Cu.", "C. N.", "D. C."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tracnghiem",
+    "chuyenDe": 6,
+    "explanation": "Fe (II, III); Cu (I, II); C (II, IV); S (II, IV, VI); N (I, II, III, IV, V). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất \\(Fe(OH)_x\\) có khối lượng phân tử gấp 7,5 lần khối lượng nguyên tử của nguyên tử carbon. Tìm x.",
+    "options": ["A. 3.", "B. 1.", "C. 4.", "D. 2."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(M_{Fe(OH)_x}=M_{C}.7,5=12.7,5=90(amu)\\). Theo đề bài ta có \\(56.1+(16+1).x=90 \\Rightarrow x=2 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất \\(Fe_2(RO_4)_3\\) có khối lượng phân tử gấp 12,5 lần khối lượng phân tử của khí oxygen. Tìm nguyên tố R.",
+    "options": ["A. S.", "B. P.", "C. N.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(M_{Fe_2(RO_4)_3}=M_{O_2}.12,5=16.2.12,5=400(amu)\\). Theo đề bài ta có \\(56.2+(R+16.4).3=400 \\Rightarrow R=32(S) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Một hợp chất có phân tử gồm 3 nguyên tử X liên kết với 4 nguyên tử oxygen và nặng bằng 3,625 lần nguyên tử đồng (copper). Tìm nguyên tố X.",
+    "options": ["A. Al.", "B. Fe.", "C. N.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(M_{X_3O_4}=M_{Cu}.3,625=64.3,625=232(amu)\\). Theo đề bài ta có \\(X.3+16.4=232 \\Rightarrow X=56(Fe) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất X gồm nguyên tố R hóa trị II và nhóm carbonate CO3, khối lượng toàn phân tử gấp 1,75 lần khối lượng oxygen trong phân tử. Tìm công thức hóa học của X.",
+    "options": ["A. Fe.", "B. Ca.", "C. Mg.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của X là \\(R_x(CO_3)_y\\). Hợp chất X được tạo thành từ nguyên tố R hóa trị \\(II\\) và nhóm carbonate \\(CO_3\\) hóa trị \\(II\\). Theo quy tắc hóa trị: \\(x.II=y.II \\Rightarrow \\dfrac{x}{y}=\\dfrac{II}{II}=\\dfrac{1}{1}\\). Do đó, công thức hóa học tổng quát của X là \\(RCO_3\\). \\(M_{RCO_3}=M_{O_3}.1,75=16.3.1,75=84(amu)\\). Theo đề bài ta có \\(R+12+16.3=84 \\Rightarrow R=24(Mg) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất \\(Ca(H_2PO_4)_x\\) có khối lượng phân tử gấp 13 lần khối lượng phân tử của \\(H_2O\\). Tìm x.",
+    "options": ["A. 3.", "B. 1.", "C. 4.", "D. 2."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(M_{Ca(H_2PO_4)_x}=M_{H_2O}.13=(2.1+16).13=234(amu)\\). Theo đề bài ta có \\(40+(2.1+31+16.4).x=234 \\Rightarrow x=2 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất \\(Al_2(RO_4)_3\\) có khối lượng phân tử gấp 5,34375 lần khối lượng phân tử của sulfur dioxie (\\(SO_2\\)). Tìm nguyên tố R.",
+    "options": ["A. S.", "B. P.", "C. N.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(M_{Al_2(RO_4)_3}=M_{SO_2}.5,34375=(32+16.2).5,34375=342(amu)\\). Theo đề bài ta có \\(27.2+(R+16.4).3=342 \\Rightarrow R=32(S) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Một hợp chất có phân tử gồm 2 nguyên tử X liên kết với 5 nguyên tử oxygen và nặng bằng nguyên tử bạc (silver). Tìm nguyên tố X.",
+    "options": ["A. Si.", "B. N.", "C. P.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của hợp chất là \\(X_2O_5\\). \\(M_{X_2O_5}=M_{Ag}=108(amu)\\). Theo đề bài ta có \\(X.2+16.5=108 \\Rightarrow X=14(N) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Một hợp chất có phân tử gồm 2 nguyên tử X liên kết với 5 nguyên tử oxygen và nặng hơn phân tử khí chlorine 2 lần. Tìm nguyên tố X.",
+    "options": ["A. Si.", "B. N.", "C. P.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của hợp chất là \\(X_2O_5\\). \\(M_{X_2O_5}=M_{Cl_2}.2=35,5.2.2=142(amu)\\). Theo đề bài ta có \\(X.2+16.5=142 \\Rightarrow X=31(P) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Một hợp chất có phân tử gồm 2 nguyên tử X liên kết với 7 nguyên tử oxygen và nặng hơn phân tử khí hydrogen 91,5 lần. Tìm nguyên tố X.",
+    "options": ["A. Mn.", "B. F.", "C. Br.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "easy",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của hợp chất là \\(X_2O_7\\). \\(M_{X_2O_7}=M_{H_2}.91,5=2.91,5=183(amu)\\). Theo đề bài ta có \\(X.2+16.7=183 \\Rightarrow X=35,5(Cl) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Vitamin C có công thức hóa học là \\(C_6H_8O_6\\). Nguyên tố nào có phần trăm khối lượng cao nhất trong vitamin C?",
+    "options": ["A. O.", "B. H.", "C. C.", "D. Cả 3 nguyên tố bằng nhau."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(M_{C_6H_8O_6}=12.6+1.8+16.6 \\approx 176(amu)\\). </br> \\(\\%(m_{C}=\\dfrac{12.6.100\\%}{176} \\approx 40,91\\%; \\%(m_{H}=\\dfrac{1.8.100\\%}{176} \\approx 4,55\\%; \\%(m_{O}=100\\% - 40,91\\% - 4,55\\% = 54,54\\% \\). (Chuyên đề 6) </br> Mẹo: vì 16.6>12.6>1.8 nên \\(\\%m_O>\\%m_C>\\%m_H\\)"
+  },
+  {
+    "question": "Nguyên tố Si hay O trong hợp chất SiO2 (là thành phần chính của thủy tinh) có phần trăm khối lượng cao nhất?",
+    "options": ["A. Si.", "B. O.", "C. Cả hai bằng nhau.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(M_{SiO_2}=28+16.2=60(amu)\\). </br> \\(\\%(m_{Si}=\\dfrac{28.100\\%}{60} \\approx 46,7\\%; \\%(m_{O}= 100\\% - 46,7\\% = 53,3\\% \\). (Chuyên đề 6) </br> Mẹo: vì 16.2>28 nên \\(\\%m_O>\\%m_{Si}\\)"
+  },
+  {
+    "question": "Bột thạch cao có nhiều ứng dụng quan trọng như: Tạo hình trong những công trình kiến trúc, làm vật liệu xây dựng, vữa trát tường, đúc tượng, làm khuôn đúc chịu nhiệt, ... Trong y tế, nó còn dùng làm khung xương, bó bột, khuôn mẫu trong nha khoa, ... Thành phần chính của bột thạch cao là hợp chất (G) gồm calcium và gốc sulfate (\\(SO4\\)). Hãy cho biết trong phân tử hợp chất (G), nguyên tố nào có phần trăm (%) lớn nhất?",
+    "options": ["A. Ca.", "B. S.", "C. O.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của G là \\(Ca_x(SO_4)_y\\). Hợp chất G được tạo thành từ nguyên tố Ca hóa trị \\(II\\) và nhóm sulfate \\(SO_4\\) hóa trị \\(II\\). Theo quy tắc hóa trị: \\(x.II=y.II \\Rightarrow \\dfrac{x}{y}=\\dfrac{II}{II}=\\dfrac{1}{1}\\). Do đó, công thức hóa học tổng quát của G là \\(CaSO_4\\). \\(M_{CaSO_4}=40+32+16.4=136(amu)\\). Theo đề bài ta có \\(\\%(m_{Ca}=\\dfrac{40.100\\%}{136} \\approx 29,41\\%; \\%(m_{S}=\\dfrac{32.100\\%}{136} \\approx 23,53\\%; \\%m_{O}= 100\\% - 29,41\\% - 23,53\\% = 47,06\\% \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Phần trăm khối lượng của nguyên tố O trong các hợp chất \\(H_2O, HNO_3\\) hay \\(Al_2(SO_4)_3\\) là cao nhất?",
+    "options": ["A. \\(Al_2(SO_4)_3\\) và \\(HNO_3\\).", "B. \\(Al_2(SO_4)_3\\).", "C. \\(HNO_3\\).", "D. \\(H_2O\\)."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "\\(\\%(m_{O:H_2O}=\\dfrac{16.100\\%}{1.2+16} \\approx 88,89\\%; \\%(m_{O:HNO_3}=\\dfrac{16.3.100\\%}{1+14+16.3} \\approx 76,19\\%; \\%(m_{O:Al_2(SO_4)_3}=\\dfrac{16.4.100\\%}{27.2+(32+16.4).3} \\approx 56,14\\% \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất calcium carbonate có phần trăm khối lượng của Ca là 40%, của C là 12%, còn lại là O. Biết rằng khối lượng phân tử của calcium carbonate là 100 amu. Hãy tính số lượng của từng nguyên tố trong 1 phân tử calcium carbonate.",
+    "options": ["A. 1 Ca, 1 C và 3 O.", "B. 4 Ca, 4 C và 8 O.", "C. 2 Ca, 2 C và 6 O.", "D. 40 Ca, 12 C và 48 O."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Số lượng nguyên tử Ca \\(=\\dfrac{100.40\\%}{40}=1\\). Số lượng nguyên tử C \\(=\\dfrac{100.12\\%}{12}=1\\). Số lượng nguyên tử O \\(=\\dfrac{100.(100\\%-40\\%-12\\%)}{16}=3\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Một loại oxide sắt có phần trăm khối lượng của sắt (iron) là 70%. Biết rằng trong một phân tử oxide sắt đó có chứa 2 nguyên tử sắt. Hãy tính khối lượng phân tử của oxide sắt trên.",
+    "options": ["A. 140 amu.", "B. 160 amu.", "C. 70 amu.", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi x là nguyên tử khối của oxide. Theo đề bài ta có \\(\\%(m_{Fe}=\\dfrac{56.2.100\\%}{x}=70% \\Rightarrow x=160\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Một hợp chất của nguyên tố T hóa trị III với nguyên tố oxygen, trong đó T chiếm 53% về khối lượng. Vậy T là nguyên tố nào?",
+    "options": ["A. N.", "B. Fe.", "C. Al.", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của hợp chất là \\(T_xO_y\\). Hợp chất được tạo thành từ nguyên tố T hóa trị \\(III\\) và oxygen O hóa trị \\(II\\). Theo quy tắc hóa trị: \\(x.III=y.II \\Rightarrow \\dfrac{x}{y}=\\dfrac{II}{III}=\\dfrac{2}{3}\\). Do đó, công thức hóa học tổng quát của hợp chất là \\(T_2O_3\\). Theo đề bài ta có \\(\\%(m_{T}=\\dfrac{T.2.100\\%}{T.2+16.3} = 53% \\Rightarrow T=27(Al) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Copper sulfate ngậm 5 phân tử nước (\\(CuSO_4.5H_2O\\)) là chất được dùng để chống xoăn cho lá cây cà chua. Nếu dùng 500 g \\(CuSO_4.5H_2O\\) phun cho cà chua thì cây trồng có thể nhận tối đa bao nhiêu gam Cu?",
+    "options": ["A. 256g.", "B. 100g.", "C. 64g.", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Khối lượng mol của \\(CuSO_4.5H_2O = 64 + 32 + 16.4 + 5.(1.2+16) = 250 (amu) \\Rightarrow \\%m_{Cu}=\\dfrac{64.100\\%}{250}=25,6\\% \\). Do đó, số lượng Cu tối đa mà cây trồng có thể nhận được là \\(500.25,6\\%=128(g)\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Thành phần chính của phân đạm là urea. Urea có công thức hoá học là \\(CO(NH_2)_2\\). Một bác nông dân đã bón 5 kg phân đạm (chứa 98% urea) cho ruộng lúa. Hỏi ruộng lúa có thể nhận tối đa bao nhiêu kilôgam nguyên tố N từ lượng phân bón trên?",
+    "options": ["A. 2,29kg.", "B. 4,58kg.", "C. 1,1kg.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Khối lượng urea trong phân đạm \\(=5.98\\%=4,9(kg)\\). Khối lượng mol của \\(CO(NH_2)_2 = 12 + 16 + (14 + 2.1).2 = 60 (amu) \\Rightarrow \\%m_{N}=\\dfrac{14.2.100\\%}{60}=46,67\\% \\). Do đó, số lượng N tối đa mà cây trồng có thể nhận được là \\(4,9.46,67\\%=2,29(kg)\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hãy xác định công thức hóa học của hợp chất X biết: Phần trăm khối lượng của các nguyên tố trong X là 40%Cu, 20%S, còn lại là O.",
+    "options": ["A. \\(CuSO_3\\).", "B. \\(CuSO_4\\).", "C. \\(CuSO_2\\).", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi công thức của X là \\(Cu_xS_yO_z\\). Theo đề bài ta có: \\(\\dfrac{64.x}{40\\%}=\\dfrac{32.y}{20\\%}=\\dfrac{16.z}{100\\%-40\\%-20\\%} \\Rightarrow \\dfrac{x}{y}=\\dfrac{32.40\\%}{64.20\\%}=\\dfrac{1}{1}; \\dfrac{x}{z}=\\dfrac{16.40\\%}{64.40\\%}=\\dfrac{1}{4} \\Rightarrow x=y=1;z=4 \\Rightarrow CuSO_4 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Phân tích một hợp chất vô cơ Y, thấy phần trăm về khối lượng của các nguyên tố như sau: 45,95%K; 16,45%N; 37,6%O. Hãy xác định công thức hóa học của Y.",
+    "options": ["A. \\(KNO_4\\).", "B. \\(KNO_3\\).", "C. \\(KNO_2\\).", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi công thức của X là \\(K_xN_yO_z\\). Theo đề bài ta có: \\(\\dfrac{39.x}{45,95\\%}=\\dfrac{14.y}{16,45\\%}=\\dfrac{16.z}{37,6\\%} \\Rightarrow \\dfrac{x}{y}=\\dfrac{14.45,95\\%}{39.16,45\\%}=\\dfrac{1}{1}; \\dfrac{x}{z}=\\dfrac{16.45,95\\%}{39.37,6\\%}=\\dfrac{1}{2} \\Rightarrow x=y=1;z=2 \\Rightarrow KNO_2 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất (Z) là khoáng vật có ánh kim và sắc vàng đồng từ nhạt tới đậm. Màu sắc của khoáng vật này đã tạo nên tên hiệu riêng của nó là vàng của kẻ ngốc, do nó trông tương tự như vàng. Trong hợp chất (Z) có 46,67% iron, còn lại là sulfur. Xác định công thức hoá học của hợp chất (Z).",
+    "options": ["A. \\(Fe_3S_4\\).", "B. \\(Fe_2S_3\\).", "C. \\(FeS\\).", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi công thức của X là \\(Fe_xS_y\\). Theo đề bài ta có: \\(\\dfrac{56.x}{46,67\\%}=\\dfrac{32.y}{100\\%-46,67\\%} \\Rightarrow \\dfrac{x}{y}=\\dfrac{32.46,67\\%}{56.53,33\\%}=\\dfrac{1}{2} \\Rightarrow x=1;y=2 \\Rightarrow FeS_2 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất (E) là oxide của nguyên tố M có hoá trị VI. Biết (E) có khối lượng phân tử bằng 80 amu và có 60% oxygen. Hãy xác định công thức hoá học của hợp chất (E).",
+    "options": ["A. \\(SO_3\\).", "B. \\(SeO_3\\).", "C. \\(TeO_3\\).", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của E là \\(M_xO_y\\). Hợp chất E được tạo thành từ nguyên tố M hóa trị \\(VI\\) và oxygen \\(O\\) hóa trị \\(II\\). Theo quy tắc hóa trị: \\(x.VI=y.II \\Rightarrow \\dfrac{x}{y}=\\dfrac{II}{VI}=\\dfrac{1}{3}\\). Do đó, công thức hóa học tổng quát của E là \\(MO_3\\). \\(M_{MO_3}=80(amu)\\). Theo đề bài ta có \\(M+16.3=80 \\Rightarrow M=32(S) \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Latic acid có chứa nhiều trong rau quả muối chua và trong sữa chua. Khối lượng phân tử của latic acid là 90 amu. Trong đó, thành phần phần trăm khối lượng C là 40%, H là 6,67% và O là 53,33%. Hãy xác định công thức phân tử của latic acid.",
+    "options": ["A. \\(C_3H_6O_4\\).", "B. \\(C_3H_6O_3\\).", "C. \\(C_2H_4O_2\\).", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Số lượng nguyên tử C \\(=\\dfrac{90.40\\%}{12}=3\\). Số lượng nguyên tử H \\(=\\dfrac{90.6,67\\%}{1}=6\\). Số lượng nguyên tử O \\(=\\dfrac{90.53,33\\%}{16}=3\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Khói thuốc lá làm tăng khả năng bị ung thư phổi, hoạt chất có độc trong thuốc lá là nicotine. Phân tích nguyên tố định lượng cho thành phần phần trăm khối lượng như sau: 74,07%C; 8,65%H; 17,28%N. Biết rằng khối lượng phân tử của nicotin là 162 amu. Xác định công thức hóa học của nicotine.",
+    "options": ["A. \\(C_{11}H_{12}N\\).", "B. \\(C_{9}H_{10}N_3\\).", "C. \\(C_{10}H_{14}N_2\\).", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Số lượng nguyên tử C \\(=\\dfrac{162.70,47\\%}{12}=10\\). Số lượng nguyên tử H \\(=\\dfrac{162.8,65\\%}{1}=14\\). Số lượng nguyên tử N \\(=\\dfrac{162.17,28\\%}{14}=2\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Dioxin là chất độc Hoá Học mà Quân đội Mĩ dùng nhiều trong chiến tranh với mục đích làm rụng lá cây rừng, trong đó nhiều nhất là ở Việt Nam. Phân tích nguyên tố cho thấy Dioxin có phần trăm khối lượng các nguyên tố C, H và Cl tương ứng là 44,72%; 1,24%; 44,10%, còn lại là oxygen. Biết tỉ khối của Dioxin so với nitơ (nitrogen) là 11,5. Xác định CTPT của dioxin.",
+    "options": ["A. \\(C_{10}H_{4}ClO\\).", "B. \\(C_{10}H_{4}Cl_3O\\).", "C. \\(C_{10}H_{4}Cl_4O\\).", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Khối lượng mol của Dioxin \\( = M_{N_2}.11,5 = 14.2.11,5 = 322 (amu)\\). Số lượng nguyên tử C \\(=\\dfrac{322.44,72\\%}{12}=12\\). Số lượng nguyên tử H \\(=\\dfrac{322.1,24\\%}{1}=4\\). Số lượng nguyên tử Cl \\(=\\dfrac{322.44,10\\%}{35,5}=4\\). Số lượng nguyên tử O \\(=\\dfrac{322.(100\\%-44,72\\%-1,24\\%-44,10\\%)}{32}=2\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Để pháo hoa có nhiều màu sắc khác nhau, người ta sẽ cho vào thuốc pháo các chất phụ gia tạo màu. Các chất phụ gia này thường là các muối của một số kim loại, trong đó có muối (Y) gồm kim loại M và nguyên tố chlorine. Biết (Y) có khối lượng phân tử là 135 amu và M chiếm 47,41% theo khối lượng. Xác định công thức hoá học của (Y).",
+    "options": ["A. \\(CuCl_2\\) lửa màu xanh dương.", "B. \\(BaCl_2\\) lửa màu xanh lá cây.", "C. \\(CaCl_2\\) lửa màu cam đỏ.", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của muối là \\(M_xCl_y\\). Muối được tạo thành từ nguyên tố M hóa trị \\(n\\) và clo \\(Cl\\) hóa trị \\(I\\). Theo quy tắc hóa trị: \\(x.n=y.I \\Rightarrow \\dfrac{x}{y}=\\dfrac{I}{n}=\\dfrac{1}{n}\\). Do đó, công thức hóa học tổng quát của muối là \\(MCl_n\\). \\(M_{MCl_n}=135(amu)\\). Theo đề bài ta có \\(\\%m_{M}=\\dfrac{M.100\\%}{135}=47,41\\% \\Rightarrow M=64(Cu) \\Rightarrow 64+35,5.n=135 \\Rightarrow n=2 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Khi phân tích vitamin A ta thu được 83,9% C; 10,5% H, còn lại là O. Biết rằng khối lượng phân tử của vitamin A là 286 amu. Xác định công thức phân tử của vitamin A.",
+    "options": ["A. \\(C_{18}H_{22}O_3\\).", "B. \\(C_{20}H_{30}O\\).", "C. \\(C_{19}H_{26}O_2\\).", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Số lượng nguyên tử C \\(=\\dfrac{286.83,9\\%}{12}=20\\). Số lượng nguyên tử H \\(=\\dfrac{286.10,5\\%}{1}=30\\). Số lượng nguyên tử O \\(=\\dfrac{286.(100\\%-83,9\\%-10,5\\%)}{16}=1\\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Tỉ lệ khối lượng giữa hai nguyên tố carbon và hydrogen trong hợp chất methane luôn không đổi là 3 : 1. Hãy lập công thức hóa học của khí methane, biết khối lượng của nguyên tử C = 12; H = 1.",
+    "options": ["A. \\(CH_2\\).", "B. \\(CH_3\\).", "C. \\(CH_4\\).", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của methane là \\(C_xH_y\\). Ta có: \\(\\dfrac{m_C}{m_H}=\\dfrac{12.x}{1.y}=\\dfrac{3}{1} \\Rightarrow \\dfrac{x}{y}=\\dfrac{3.1}{1.12}=\\dfrac{1}{4} \\Rightarrow CH_4 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất X tạo bởi hai nguyên tố là nitrogen và oxygen. Người ta xác định được rằng, tỉ lệ khối lượng giữa hai nguyên tố trong X là \\(m_N : m_O = 7 : 12\\). Hãy xác định công thức hóa học của X, biết khối lượng của nguyên tử N = 14; O = 16.",
+    "options": ["A. \\(NO\\).", "B. \\(NO_3\\).", "C. \\(NO_4\\).", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của X là \\(N_xO_y\\). Ta có: \\(\\dfrac{m_N}{m_O}=\\dfrac{14.x}{16.y}=\\dfrac{7}{12} \\Rightarrow \\dfrac{x}{y}=\\dfrac{7.16}{12.14}=\\dfrac{2}{3} \\Rightarrow N_2O_3 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất Y tạo bởi hai nguyên tố là sắt (iron) và oxygen. Người ta xác định được rằng, tỉ lệ khối lượng giữa hai nguyên tố trong Y là \\(m_{Fe} : m_O = 7 : 3\\). Hãy xác định công thức hóa học của Y.",
+    "options": ["A. \\(Fe_2O_3\\).", "B. \\(FeO\\).", "C. \\(Fe_3O_4\\).", "D. Đáp án khác."],
+    "answer": "A",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của X là \\(Fe_xO_y\\). Ta có: \\(\\dfrac{m_Fe}{m_O}=\\dfrac{56.x}{16.y}=\\dfrac{7}{3} \\Rightarrow \\dfrac{x}{y}=\\dfrac{7.16}{3.56}=\\dfrac{2}{3} \\Rightarrow Fe_2O_3 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất Z tạo bởi hai nguyên tố là lưu huỳnh (sulfur) và oxygen. Người ta xác định được rằng, tỉ lệ khối lượng giữa hai nguyên tố trong Z là \\(m_S : m_O = 2 : 3\\). Hãy xác định công thức hóa học của Z.",
+    "options": ["A. \\(SO_2\\).", "B. \\(SO_3\\).", "C. \\(SO_4\\).", "D. Đáp án khác."],
+    "answer": "B",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của Z là \\(S_xO_y\\). Ta có: \\(\\dfrac{m_S}{m_O}=\\dfrac{32.x}{16.y}=\\dfrac{2}{3} \\Rightarrow \\dfrac{x}{y}=\\dfrac{2.16}{3.32}=\\dfrac{1}{3} \\Rightarrow SO_3 \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Hợp chất T tạo bởi hai nguyên tố là magnesium và oxygen. Người ta xác định được rằng, tỉ lệ khối lượng giữa hai nguyên tố trong T là \\(m_{Mg} : m_O = 3 : 2\\). Hãy xác định công thức hóa học của T.",
+    "options": ["A. \\(Mg_2O\\).", "B. \\(MgO_2\\).", "C. \\(MgO\\).", "D. Đáp án khác."],
+    "answer": "C",
+    "difficulty": "medium",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của T là \\(Mg_xO_y\\). Ta có: \\(\\dfrac{m_{Mg}}{m_O}=\\dfrac{24.x}{16.y}=\\dfrac{3}{2} \\Rightarrow \\dfrac{x}{y}=\\dfrac{3.16}{2.24}=\\dfrac{1}{1} \\Rightarrow MgO \\). (Chuyên đề 6)"
+  },
+  {
+    "question": "Ammonium carbonate là hợp chất được dùng nhiều trong phòng thí nghiệm, công nghiệp, nông nghiệp, y tế, … Nó còn được gọi là ammonia của thợ làm bánh và là tiền thân của các chất men hiện đại hơn như baking soda và bột nở. Hãy xác định công thức hoá học của hợp chất ammonium carbonate.",
+    "options": ["A. \\(NH_4HCO_3\\).", "B. \\(NH_4HCO_2\\).", "C. \\(NH_4HCO\\).", "D. Đáp án khác."],
+    "answer": "D",
+    "difficulty": "hard",
+    "type": "tinhtoan",
+    "chuyenDe": 6,
+    "explanation": "Gọi CTHH của ammonium carbonate là \\((NH_4)_x(CO_3)_y\\). Muối được tạo thành từ nhóm amoni hóa trị \\(I\\) và nhóm carbonate \\(CO_3\\) hóa trị \\(II\\). Theo quy tắc hóa trị: \\(x.I=y.II \\Rightarrow \\dfrac{x}{y}=\\dfrac{II}{I}=\\dfrac{2}{1}\\). Do đó, công thức hóa học tổng quát của ammonium carbonate là \\((NH_4)_2CO_3\\). (Chuyên đề 6)"
+  }
+]
