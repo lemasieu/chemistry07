@@ -135,31 +135,31 @@
     "explanation": "Mol là lượng chất có chứa \\(6,02.10^{23}\\) nguyên tử hoặc phân tử của chất đó. Như vậy 1 mol của bất kì nguyên tử nào đều chứa \\(6,02.10^{23}\\) nguyên tử. Suy ra: 1 mol X chứa số lượng nguyên tử bằng số lượng nguyên tử trong 1 mol nguyên tử hydrogen. (Chuyên đề 1)"
   },
   {
-    "question": "Cho các phát biểu sau: </br>(a) Nếu 1 nguyên tử có 17 electron thì nguyên tử đó cũng có 17 proton. </br>(b) Nếu 1 nguyên tử có 17 electron thì nguyên tử đó cũng có 17 neutron. </br>(c) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 proton. </br>(d) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 neutron. </br>(e) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 electron. </br>Số phát biểu đúng là",
+    "question": "Cho các phát biểu sau: <br> (a) Nếu 1 nguyên tử có 17 electron thì nguyên tử đó cũng có 17 proton. <br> (b) Nếu 1 nguyên tử có 17 electron thì nguyên tử đó cũng có 17 neutron. <br> (c) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 proton. <br> (d) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 neutron. <br> (e) Nếu 1 nguyên tử có 17 electron thì ion tạo ra từ nguyên tố đó có 17 electron. <br> Số phát biểu đúng là",
     "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
     "answer": "B",
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 1,
-    "explanation": "Phát biểu đúng là: (a), (c). </br>(b) Sai vì trong nguyên tử chỉ có số p = số e. </br>(d), (e) Sai vì nguyên tử và ion cùng một nguyên tố chỉ khác nhau về số e còn số p và số n giống nhau. (Chuyên đề 1)"
+    "explanation": "Phát biểu đúng là: (a), (c). <br> (b) Sai vì trong nguyên tử chỉ có số p = số e. <br> (d), (e) Sai vì nguyên tử và ion cùng một nguyên tố chỉ khác nhau về số e còn số p và số n giống nhau. (Chuyên đề 1)"
   },
   {
-    "question": "Cho các phát biểu sau: </br>(1) Tất cả các hạt nhân nguyên tử đều chứa proton và neutron. </br>(2) Khối lượng nguyên tử tập trung phần lớn ở lớp vỏ. </br>(3) Trong nguyên tử, số electron bằng số proton. </br>(4) Trong hạt nhân nguyên tử, hạt mang điện là proton và electron. </br>(5) Trong nguyên tử, hạt electron có khối lượng không đáng kể so với các hạt còn lại. </br>Số phát biểu đúng là",
+    "question": "Cho các phát biểu sau: <br> (1) Tất cả các hạt nhân nguyên tử đều chứa proton và neutron. <br> (2) Khối lượng nguyên tử tập trung phần lớn ở lớp vỏ. <br> (3) Trong nguyên tử, số electron bằng số proton. <br> (4) Trong hạt nhân nguyên tử, hạt mang điện là proton và electron. <br> (5) Trong nguyên tử, hạt electron có khối lượng không đáng kể so với các hạt còn lại. <br> Số phát biểu đúng là",
     "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
     "answer": "B",
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 1,
-    "explanation": "Phát biểu đúng là: (3), (5). </br>(1) Sai vì có trường hợp đặc biệt như hạt nhân nguyên tử H chỉ có proton. </br>(2) Sai vì khối lượng nguyên tử tập trung chủ yếu ở hạt nhân. </br>(4) Sai vì trong hạt nhân, hạt mang điện là proton. (Chuyên đề 1)"
+    "explanation": "Phát biểu đúng là: (3), (5). <br> (1) Sai vì có trường hợp đặc biệt như hạt nhân nguyên tử H chỉ có proton. <br> (2) Sai vì khối lượng nguyên tử tập trung chủ yếu ở hạt nhân. <br> (4) Sai vì trong hạt nhân, hạt mang điện là proton. (Chuyên đề 1)"
   },
   {
-    "question": "Cho các phát biểu sau: </br>(a) Điện tích của proton và electron có cùng độ lớn nhưng ngược dấu. </br>(b) Có những nguyên tử không chứa neutron nào. </br>(c) Một số nguyên tử không có bất kì proton nào. </br>(d) Điện tích của proton và neutron có cùng độ lớn nhưng ngược dấu. </br>(e) Trong nguyên tử, số hạt proton luôn bằng số hạt electron. </br>(g) Khối lượng của proton và neutron xấp xỉ bằng nhau và lớn hơn nhiều khối lượng của electron. </br>Số phát biểu không đúng là",
+    "question": "Cho các phát biểu sau: <br> (a) Điện tích của proton và electron có cùng độ lớn nhưng ngược dấu. <br> (b) Có những nguyên tử không chứa neutron nào. <br> (c) Một số nguyên tử không có bất kì proton nào. <br> (d) Điện tích của proton và neutron có cùng độ lớn nhưng ngược dấu. <br> (e) Trong nguyên tử, số hạt proton luôn bằng số hạt electron. <br> (g) Khối lượng của proton và neutron xấp xỉ bằng nhau và lớn hơn nhiều khối lượng của electron. <br> Số phát biểu không đúng là",
     "options": ["A. 1.", "B. 2.", "C. 3.", "D. 4."],
     "answer": "B",
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 1,
-    "explanation": "Phát biểu không đúng là: (c), (d). </br>(c) Sai vì proton là hạt đặc trưng cho nguyên tử, nguyên tố nên bất cứ nguyên tử nào cũng phải có proton. </br>(d) Sai vì neutron không mang điện. (Chuyên đề 1)"
+    "explanation": "Phát biểu không đúng là: (c), (d). <br> (c) Sai vì proton là hạt đặc trưng cho nguyên tử, nguyên tố nên bất cứ nguyên tử nào cũng phải có proton. <br> (d) Sai vì neutron không mang điện. (Chuyên đề 1)"
   },
   {
     "question": "Các hợp chất của nguyên tố Y được sử dụng như là vật liệu chịu lửa trong các lò sản xuất sắt, thép, kim loại màu, thủy tinh và xi măng. Oxide của Y và các hợp chất khác cũng được sử dụng trong nông nghiệp, công nghiệp hóa chất và xây dựng. Nguyên tử Y có tổng số các hạt là 36. Số hạt không mang điện bằng một nửa hiệu số giữa tổng số hạt với số hạt mang điện tích âm. Xác định thành phần cấu tạo của nguyên tử Y.",
@@ -231,7 +231,7 @@
     "difficulty": "medium",
     "type": "tinhtoan",
     "chuyenDe": 1,
-    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { (2}{{Z}_{X}}{ + }{{N}_X}{) + 2(2}{{Z}_Y}{ + }{{N}_Y}{) = 178}\\\\ { (2}{{Z}_X}{ + 2}{.2}{{Z}_Y}{) } - { (}{{N}_X}{ + 2}{{N}_Y}{) = 54} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} 2{Z_X}{ + 4}{{Z}_Y}{ = 116}\\\\ {{N}_X}{ + 2}{{N}_Y}{ = 62} \\end{array} \\right.\\) </br> \\( \\Rightarrow \\left\\{ \\begin{array}{l} { 2}{.2}{{Z}_Y}{ } - { 2}{{Z}_X}{ = 12}\\\\ {2}{{Z}_X}{ + 4}{{Z}_Y}{ = 116} \\end{array} \\right.{ } \\Rightarrow \\left\\{ \\begin{array}{l} {Z_X}{ = 26 (Fe)}\\\\ {{Z}_Y}{ = 16 (S)} \\end{array} \\right. \\Rightarrow { CT: Fe}{{S}_2}\\) (Chuyên đề 1)"
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { (2}{{Z}_{X}}{ + }{{N}_X}{) + 2(2}{{Z}_Y}{ + }{{N}_Y}{) = 178}\\\\ { (2}{{Z}_X}{ + 2}{.2}{{Z}_Y}{) } - { (}{{N}_X}{ + 2}{{N}_Y}{) = 54} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} 2{Z_X}{ + 4}{{Z}_Y}{ = 116}\\\\ {{N}_X}{ + 2}{{N}_Y}{ = 62} \\end{array} \\right.\\) <br> \\( \\Rightarrow \\left\\{ \\begin{array}{l} { 2}{.2}{{Z}_Y}{ } - { 2}{{Z}_X}{ = 12}\\\\ {2}{{Z}_X}{ + 4}{{Z}_Y}{ = 116} \\end{array} \\right.{ } \\Rightarrow \\left\\{ \\begin{array}{l} {Z_X}{ = 26 (Fe)}\\\\ {{Z}_Y}{ = 16 (S)} \\end{array} \\right. \\Rightarrow { CT: Fe}{{S}_2}\\) (Chuyên đề 1)"
   },
   {
     "question": "Tổng số proton, electron, neutron trong hai nguyên tử A và B là 142, trong số đó tổng số hạt mang điện nhiều hơn số hạt không mang điện là 42. Số hạt mang điện của B nhiều hơn của A là 12. Số hiệu nguyên tử của A và B là",
@@ -240,7 +240,7 @@
     "difficulty": "medium",
     "type": "tinhtoan",
     "chuyenDe": 1,
-    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { }2({Z_A}{ + }{{Z}_B}){ + (}{{N}_A}{ + }{{N}_B}{) = 142}\\\\ { }2({Z_A}{ + }{{Z}_B}){ } - { (}{{N}_A}{ + }{{N}_B}{) = 42} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} ({Z_A}{ + }{{Z}_B}){ = 46}\\\\ {(}{{N}_A}{ + }{{N}_B}{) = 50} \\end{array} \\right.\\) </br> \\( \\Rightarrow \\left\\{ \\begin{array}{l} {Z_A}{ + }{{Z}_B}{ = 46}\\\\ {2}{{Z}_B}{ } - { 2}{{Z}_A}{ = 12} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {Z_A}{ = 20}\\\\ {{Z}_B}{ = 26} \\end{array} \\right.\\) (Chuyên đề 1)"
+    "explanation": "\\( \\Rightarrow \\left\\{ \\begin{array}{l} { }2({Z_A}{ + }{{Z}_B}){ + (}{{N}_A}{ + }{{N}_B}{) = 142}\\\\ { }2({Z_A}{ + }{{Z}_B}){ } - { (}{{N}_A}{ + }{{N}_B}{) = 42} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} ({Z_A}{ + }{{Z}_B}){ = 46}\\\\ {(}{{N}_A}{ + }{{N}_B}{) = 50} \\end{array} \\right.\\) <br> \\( \\Rightarrow \\left\\{ \\begin{array}{l} {Z_A}{ + }{{Z}_B}{ = 46}\\\\ {2}{{Z}_B}{ } - { 2}{{Z}_A}{ = 12} \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {Z_A}{ = 20}\\\\ {{Z}_B}{ = 26} \\end{array} \\right.\\) (Chuyên đề 1)"
   },
   {
     "question": "Trong phân tử \\(MX_2\\), M chiếm 46,67% về khối lượng. Hạt nhân M có số neutron nhiều hơn số proton là 4 hạt. Trong nhân X số neutron bằng số proton. Tổng số proton trong phân tử \\(MX_2\\) là 58. CTPT của \\(MX_2\\) là",
@@ -267,7 +267,7 @@
     "difficulty": "hard",
     "type": "tinhtoan",
     "chuyenDe": 1,
-    "explanation": "Theo bài ra ta có: </br>+ A, B là 2 nguyên tố ở cùng phân nhóm và thuộc 2 chu kì liên tiếp trong bảng tuần hoàn => \\(p_B – p_A = 8 (I)\\) </br>+ Tổng số p trong hai hạt nhân nguyên tử A và B bằng 32 có: \\(p_B + p_A = 32 (II)\\). </br>Từ (I), (II) giải ra ta được \\(p_A = 12\\) là magnesium (Mg) và \\(p_B = 20\\) là calcium (Ca). (Chuyên đề 1)"
+    "explanation": "Theo bài ra ta có: <br> + A, B là 2 nguyên tố ở cùng phân nhóm và thuộc 2 chu kì liên tiếp trong bảng tuần hoàn => \\(p_B – p_A = 8 (I)\\) <br> + Tổng số p trong hai hạt nhân nguyên tử A và B bằng 32 có: \\(p_B + p_A = 32 (II)\\). <br> Từ (I), (II) giải ra ta được \\(p_A = 12\\) là magnesium (Mg) và \\(p_B = 20\\) là calcium (Ca). (Chuyên đề 1)"
   },
   {
     "question": "Một nguyên tử của nguyên tố X có tổng số hạt là 34, trong đó số hạt không mang điện chiếm 35,3%. Một nguyên tử của nguyên tố Y có tổng số hạt là 52 trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 16 hạt. Cho biết tên của nguyên tố X, Y?",
@@ -276,7 +276,7 @@
     "difficulty": "hard",
     "type": "tinhtoan",
     "chuyenDe": 1,
-    "explanation": "\\(\\left\\{ \\begin{array}{l} {P_X} + {E_X} + {N_X} = 34\\\\ {N_X} = 34.35,3\\% \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {P_X} = {E_X} = 11\\\\ {N_X} = 12 \\end{array} \\right. \\Rightarrow X: Na\\) </br> \\(\\left\\{ \\begin{array}{l} {P_Y} + {E_Y} + {N_Y} = 52\\\\ {P_Y} + {E_Y} - {N_Y} = 16 \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {P_Y} = {E_Y} = 17\\\\ {N_Y} = 18 \\end{array} \\right. \\Rightarrow Y: Cl\\) (Chuyên đề 1)"
+    "explanation": "\\(\\left\\{ \\begin{array}{l} {P_X} + {E_X} + {N_X} = 34\\\\ {N_X} = 34.35,3\\% \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {P_X} = {E_X} = 11\\\\ {N_X} = 12 \\end{array} \\right. \\Rightarrow X: Na\\) <br> \\(\\left\\{ \\begin{array}{l} {P_Y} + {E_Y} + {N_Y} = 52\\\\ {P_Y} + {E_Y} - {N_Y} = 16 \\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} {P_Y} = {E_Y} = 17\\\\ {N_Y} = 18 \\end{array} \\right. \\Rightarrow Y: Cl\\) (Chuyên đề 1)"
   },
   {
     "question": "Tổng số hạt Proton, Neutron và Electron trong nguyên tử của một nguyên tố là 13, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 3 hạt. Tính số hạt mỗi loại có trong nguyên tử của nguyên tố trên.",
@@ -285,7 +285,7 @@
     "difficulty": "hard",
     "type": "tinhtoan",
     "chuyenDe": 1,
-    "explanation": "P + N + E = 13 => 2P + N = 13 </br> và 2P - N = 3 </br> => P = 4 và N = 5 (Chuyên đề 1)"
+    "explanation": "P + N + E = 13 => 2P + N = 13 <br> và 2P - N = 3 <br> => P = 4 và N = 5 (Chuyên đề 1)"
   },
   {
     "question": "Tổng số hạt cơ bản của 2 nguyên tử của 2 nguyên tố A và B có tổng số hạt là 142. Trong đó số hạt mang điện nhiều hơn tổng số hạt không mang điện là 42. số hạt mang điện của nguyên tố B nhiều hơn nguyên tố A là 12. Còn số hạt không mang điện của nguyên tố B nhiều gấp rưỡi của nguyên tố A. Hãy xác định tên 2 nguyên tố A,B.",
@@ -303,7 +303,7 @@
     "difficulty": "hard",
     "type": "tinhtoan",
     "chuyenDe": 1,
-    "explanation": "P + N + E = 58 => 2P + N = 58 </br> và 2P - N = 18 </br> => P = 19 và N = 20 (Chuyên đề 1)"
+    "explanation": "P + N + E = 58 => 2P + N = 58 <br> và 2P - N = 18 <br> => P = 19 và N = 20 (Chuyên đề 1)"
   },
   {
     "question": "C là ký hiệu hóa học của nguyên tố hóa học nào?",
@@ -807,7 +807,7 @@
     "difficulty": "hard",
     "type": "tinhtoan",
     "chuyenDe": 3,
-    "explanation": "Tổng số hạt mang điện trong 2 nguyên tử X, Y là 52 \\(\\Rightarrow 2Z_X + 2Z_Y = 52 \\Rightarrow Z_X + Z_Y = 26 (I)\\) </br> TH1: \\(Z_X – Z_Y = 2 (II)\\) (X, Y phải thuộc chu kì 1, 2). Từ \\( (I) \\& (II) \\Rightarrow Z_X =14; Z_Y = 12\\) (loại) </br> TH2: \\(Z_X – Z_Y = 8 (III)\\). Từ \\( (I) \\& (III) \\Rightarrow Z_X = 17, Z_Y = 9 \\Rightarrow \\) X là Cl: X thuộc chu kì 3 nhóm VIIA. Y là F: Y thuộc chu kì 2 nhóm VIIA </br> TH3: \\(Z_X – Z_Y = 18 (IV)\\) (X, Y thuộc từ chu kì 4 trở đi). Từ \\((I) \\& (IV) \\Rightarrow Z_X =22; Z_Y = 4\\) (loại) </br> TH4: \\(Z_X – Z_Y = 32\\) (loại vì 32 > 26). (Chuyên đề 3)"
+    "explanation": "Tổng số hạt mang điện trong 2 nguyên tử X, Y là 52 \\(\\Rightarrow 2Z_X + 2Z_Y = 52 \\Rightarrow Z_X + Z_Y = 26 (I)\\) <br> TH1: \\(Z_X – Z_Y = 2 (II)\\) (X, Y phải thuộc chu kì 1, 2). Từ \\( (I) \\& (II) \\Rightarrow Z_X =14; Z_Y = 12\\) (loại) <br> TH2: \\(Z_X – Z_Y = 8 (III)\\). Từ \\( (I) \\& (III) \\Rightarrow Z_X = 17, Z_Y = 9 \\Rightarrow \\) X là Cl: X thuộc chu kì 3 nhóm VIIA. Y là F: Y thuộc chu kì 2 nhóm VIIA <br> TH3: \\(Z_X – Z_Y = 18 (IV)\\) (X, Y thuộc từ chu kì 4 trở đi). Từ \\((I) \\& (IV) \\Rightarrow Z_X =22; Z_Y = 4\\) (loại) <br> TH4: \\(Z_X – Z_Y = 32\\) (loại vì 32 > 26). (Chuyên đề 3)"
   },
   {
     "question": "X và Y là hai nguyền tố thuộc hai chu kì liên tiếp nhau và cùng thuộc một nhóm A, trong đó X có điện tích hạt nhân nhỏ hơn Y. Tổng số proton trong hạt nhân nguyên tử của X và Y là 22. Xác định hai nguyên tố X, Y.",
@@ -816,7 +816,7 @@
     "difficulty": "hard",
     "type": "tinhtoan",
     "chuyenDe": 3,
-    "explanation": "Theo đề bài, ta có: \\(Z_X + Z_Y = 22 (1)\\).</br> Nếu X, Y thuộc hai chu kì nhỏ thì \\((Z_X < Z_Y): Z_Y = Z_X + 8 (2)\\). Từ \\((1) \\& (2) \\Rightarrow Z_X = 7; Z_Y = 15.\\) Vậy X là N, Y là P.</br> Nếu X thuộc chu kì nhỏ và Y thuộc chu kì lớn thì: \\(Z_Y = Z_X + 18 (3)\\). Từ \\((1) \\& (3) \\Rightarrow Z_X = 2; Z_Y = 20\\) (loại vì không thảo mãn đề bài). </br> Nếu X, Y thuộc hai chu kì lớn: \\(Z_Y = Z_X + 32 (4)\\). Từ \\((1) \\& (4) \\Rightarrow ZX < 0\\) (loại) (Chuyên đề 3)"
+    "explanation": "Theo đề bài, ta có: \\(Z_X + Z_Y = 22 (1)\\). <br> Nếu X, Y thuộc hai chu kì nhỏ thì \\((Z_X < Z_Y): Z_Y = Z_X + 8 (2)\\). Từ \\((1) \\& (2) \\Rightarrow Z_X = 7; Z_Y = 15.\\) Vậy X là N, Y là P. <br> Nếu X thuộc chu kì nhỏ và Y thuộc chu kì lớn thì: \\(Z_Y = Z_X + 18 (3)\\). Từ \\((1) \\& (3) \\Rightarrow Z_X = 2; Z_Y = 20\\) (loại vì không thảo mãn đề bài). <br> Nếu X, Y thuộc hai chu kì lớn: \\(Z_Y = Z_X + 32 (4)\\). Từ \\((1) \\& (4) \\Rightarrow ZX < 0\\) (loại) (Chuyên đề 3)"
   },
   {
     "question": "Tổng số hạt trong nguyên tử M là 18. Nguyên tử M có tổng số hạt mang điện gấp đôi số hạt không mang điện. M là nguyên tố nào trong bảng tuần hoàn?",
@@ -915,7 +915,7 @@
     "difficulty": "medium",
     "type": "tinhtoan",
     "chuyenDe": 3,
-    "explanation": "\\( p + e + n = 13 \\leftrightarrow 2p + n = 13\\) (với p, n, e là số nguyên dương)</br>- Với \\(p \\le n \\to\\) (coi p=n để thay vào biểu thức trên)</br> \\(\\to 2p + p \\le 13 \\to p \\le \\frac{{13}}{3} = 4,3\\)</br> - Với \\(1,5p \\ge n \\to 2p + 1,5p \\ge 13 \\to p \\ge \\frac{{13}}{{3,5}} = 3,7\\)</br> \\(\\to 3,7 \\le p \\le 4,3\\) (với p, n, e là số nguyên dương) \\(\\to p=4=e\\)</br> \\(\\to 2p + n = 13 \\to n = 13 - 2.4 = 5\\). (Chuyên đề 3)"
+    "explanation": "\\( p + e + n = 13 \\leftrightarrow 2p + n = 13\\) (với p, n, e là số nguyên dương) <br> - Với \\(p \\le n \\to\\) (coi p=n để thay vào biểu thức trên) <br> \\(\\to 2p + p \\le 13 \\to p \\le \\frac{{13}}{3} = 4,3\\) <br> - Với \\(1,5p \\ge n \\to 2p + 1,5p \\ge 13 \\to p \\ge \\frac{{13}}{{3,5}} = 3,7\\) <br> \\(\\to 3,7 \\le p \\le 4,3\\) (với p, n, e là số nguyên dương) \\(\\to p=4=e\\) <br> \\(\\to 2p + n = 13 \\to n = 13 - 2.4 = 5\\). (Chuyên đề 3)"
   },
   {
     "question": "Hai nguyên tử A và B có tổng số hạt proton, nơtron, electron là 78, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 26. Số hạt mang điện của nguyên tử A nhiều hơn số hạt mang điện của nguyên tử B là 28. Hãy xác định hai nguyên tố A và B. Cho biết số hiệu nguyên tử của một số nguyên tố như sau: \\(Z_N = 7; Z_{Na} = 11; Z_{Ca} = 20; Z_{Fe} = 26; Z_{Cu} = 29; Z_C = 6; Z_S = 16.\\)",
@@ -924,7 +924,7 @@
     "difficulty": "hard",
     "type": "tinhtoan",
     "chuyenDe": 3,
-    "explanation": "Mấu chốt bài toán:  Nếu xác định được tổng số proton của A,B thì kết hợp với hiệu số hạt mang điện trong 2 nguyên tử sẽ tìm được số proton của mỗi nguyên tử.</br>Gọi p, p’ lần lượt là số proton của A, B. n, n’ lần lượt là số nơtron của A,B. Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2(p+p')+(n+n')=54 \\\\ 2(p+p')-(n+n')=26 \\\\ 2p-2p'=28 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p+p'=26 \\\\ p-p'=14 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=20(Ca) \\\\ p'=6(C) \\end{matrix}\\right. \\). (Chuyên đề 3)"
+    "explanation": "Mấu chốt bài toán:  Nếu xác định được tổng số proton của A,B thì kết hợp với hiệu số hạt mang điện trong 2 nguyên tử sẽ tìm được số proton của mỗi nguyên tử. <br> Gọi p, p’ lần lượt là số proton của A, B. n, n’ lần lượt là số nơtron của A,B. Ta có hệ phương trình: \\(\\left\\{\\begin{matrix} 2(p+p')+(n+n')=54 \\\\ 2(p+p')-(n+n')=26 \\\\ 2p-2p'=28 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p+p'=26 \\\\ p-p'=14 \\end{matrix}\\right. \\Leftrightarrow \\left\\{\\begin{matrix} p=20(Ca) \\\\ p'=6(C) \\end{matrix}\\right. \\). (Chuyên đề 3)"
   },
   {
     "question": "Trong số các chất sau: \\(O_2, CO_2, KMnO_4, Fe, O_3, KNO_3, BaCl_2, H_2, Mg, NaOH, Ca(HCO_3)_2, Fe(OH)_2, Fe(OH)_3, BaSO_4, Fe_2(SO_4)_3, Br_2, Mn\\) có bao nhiêu chất là đơn chất?",
@@ -960,7 +960,7 @@
     "difficulty": "medium",
     "type": "tinhtoan",
     "chuyenDe": 4,
-    "explanation": "Ta có x=1 vì số lượng Ca và Mg đều bằng 1.</br> Tổng số lượng C = y + y =2 => y = 1.</br> Tổng số lượng O = z + z = 6 => z = 3. (Chuyên đề 4)"
+    "explanation": "Ta có x=1 vì số lượng Ca và Mg đều bằng 1. <br> Tổng số lượng C = y + y =2 => y = 1. <br> Tổng số lượng O = z + z = 6 => z = 3. (Chuyên đề 4)"
   },
   {
     "question": "Chọn khẳng định đúng?",
@@ -1278,7 +1278,7 @@
     "explanation": "Đặt CTHH của Y là \\(C_xO_y\\). Theo đề bài ta có \\(\\dfrac{m_{C}}{m_{O}} = \\dfrac{12.x}{16.y} = \\dfrac{3}{8} \\Leftrightarrow \\dfrac{x}{y} = \\dfrac{3.16}{8.12} = \\dfrac{1}{2} \\Rightarrow CO_2\\) là hợp chất cộng hóa trị. (Chuyên đề 5)"
   },
   {
-    "question": "Khi làm thí nghiệm với hợp chất A, người ta thu được kết quả như sau: </br> - Thể (ở điều kiện thường): Chất rắn.</br> - Nhiệt độ nóng chảy: 810°C.</br> - Nhiệt độ bay hơi: 1413°C.</br> - Tính tan trong nước: Tan trong nước tạo thành dung dịch dẫn điện tốt.</br> Hợp chất A là hợp chất ion hay cộng hóa trị?",
+    "question": "Khi làm thí nghiệm với hợp chất A, người ta thu được kết quả như sau: <br> - Thể (ở điều kiện thường): Chất rắn. <br> - Nhiệt độ nóng chảy: 810°C. <br> - Nhiệt độ bay hơi: 1413°C. <br> - Tính tan trong nước: Tan trong nước tạo thành dung dịch dẫn điện tốt. <br> Hợp chất A là hợp chất ion hay cộng hóa trị?",
     "options": ["A. Hợp chất ion.", "B. Hợp chất cộng hóa trị.", "C. Chưa đủ thông tin để kết luận.", "D. Vừa là hợp chất ion, vừa là hợp chất cộng hóa trị."],
     "answer": "A",
     "difficulty": "medium",
@@ -1314,7 +1314,7 @@
     "explanation": "Lớp vỏ ngoài cùng của nguyên tử N có 5 electron => Để đạt được lớp vỏ 8 electron bền vững, mỗi nguyên tử N sẽ góp chung 8 - 5 = 3 electron tạo thành 3 cặp electron dùng chung. (Chuyên đề 5)"
   },
   {
-    "question": "Dựa vào hóa trị, hãy viết công thức hóa học của các chất có thành phần phân tử sau: </br> Chất A: H và O. </br> Chất B: Na và Cl. </br> Tính khối lượng phân tử của các hợp chất trên.",
+    "question": "Dựa vào hóa trị, hãy viết công thức hóa học của các chất có thành phần phân tử sau: <br> Chất A: H và O. <br> Chất B: Na và Cl. <br> Tính khối lượng phân tử của các hợp chất trên.",
     "options": ["A. \\(H_2O(M=18);NaCl(M=58,5)\\).", "B. \\(HO(M=17);Na_2Cl(M=81,5)\\).", "C. \\(H_2O_2(M=34);NaCl_2(M=94)\\).", "D. Đáp án khác."],
     "answer": "A",
     "difficulty": "hard",
@@ -1464,7 +1464,7 @@
     "difficulty": "medium",
     "type": "tinhtoan",
     "chuyenDe": 6,
-    "explanation": "\\(M_{C_6H_8O_6}=12.6+1.8+16.6 \\approx 176(amu)\\). </br> \\(\\%(m_{C}=\\dfrac{12.6.100\\%}{176} \\approx 40,91\\%; \\%(m_{H}=\\dfrac{1.8.100\\%}{176} \\approx 4,55\\%; \\%(m_{O}=100\\% - 40,91\\% - 4,55\\% = 54,54\\% \\). (Chuyên đề 6) </br> Mẹo: vì 16.6>12.6>1.8 nên \\(\\%m_O>\\%m_C>\\%m_H\\)"
+    "explanation": "\\(M_{C_6H_8O_6}=12.6+1.8+16.6 \\approx 176(amu)\\). <br> \\(\\%(m_{C}=\\dfrac{12.6.100\\%}{176} \\approx 40,91\\%; \\%(m_{H}=\\dfrac{1.8.100\\%}{176} \\approx 4,55\\%; \\%(m_{O}=100\\% - 40,91\\% - 4,55\\% = 54,54\\% \\). (Chuyên đề 6) <br> Mẹo: vì 16.6>12.6>1.8 nên \\(\\%m_O>\\%m_C>\\%m_H\\)"
   },
   {
     "question": "Nguyên tố Si hay O trong hợp chất SiO2 (là thành phần chính của thủy tinh) có phần trăm khối lượng cao nhất?",
@@ -1473,7 +1473,7 @@
     "difficulty": "medium",
     "type": "tinhtoan",
     "chuyenDe": 6,
-    "explanation": "\\(M_{SiO_2}=28+16.2=60(amu)\\). </br> \\(\\%(m_{Si}=\\dfrac{28.100\\%}{60} \\approx 46,7\\%; \\%(m_{O}= 100\\% - 46,7\\% = 53,3\\% \\). (Chuyên đề 6) </br> Mẹo: vì 16.2>28 nên \\(\\%m_O>\\%m_{Si}\\)"
+    "explanation": "\\(M_{SiO_2}=28+16.2=60(amu)\\). <br> \\(\\%(m_{Si}=\\dfrac{28.100\\%}{60} \\approx 46,7\\%; \\%(m_{O}= 100\\% - 46,7\\% = 53,3\\% \\). (Chuyên đề 6) <br> Mẹo: vì 16.2>28 nên \\(\\%m_O>\\%m_{Si}\\)"
   },
   {
     "question": "Bột thạch cao có nhiều ứng dụng quan trọng như: Tạo hình trong những công trình kiến trúc, làm vật liệu xây dựng, vữa trát tường, đúc tượng, làm khuôn đúc chịu nhiệt, ... Trong y tế, nó còn dùng làm khung xương, bó bột, khuôn mẫu trong nha khoa, ... Thành phần chính của bột thạch cao là hợp chất (G) gồm calcium và gốc sulfate (\\(SO4\\)). Hãy cho biết trong phân tử hợp chất (G), nguyên tố nào có phần trăm (%) lớn nhất?",
