@@ -40,13 +40,14 @@ function displayChapters(questions) {
         resultItem.className = 'result-item';
 
         const questionTitle = document.createElement('h4');
-        questionTitle.textContent = `Câu ${index + 1}: ${q.question}`;
+        // Tách nội dung câu hỏi và xử lý xuống dòng
+        const questionLines = q.question.split('<br>').map(line => line.trim());
+        questionTitle.innerHTML = `Câu ${index + 1}: ${questionLines.join('<br>')}`;
         resultItem.appendChild(questionTitle);
 
         // Hiển thị 4 đáp án từ options, đánh dấu đáp án đúng bằng màu xanh
         q.options.forEach((option, optIndex) => {
           const optionPara = document.createElement('p');
-          // Tách ký tự đầu (A, B, C, D) để so sánh với q.answer
           const optionLetter = option.charAt(0);
           if (optionLetter === q.answer) {
             optionPara.classList.add('correct');
@@ -57,7 +58,6 @@ function displayChapters(questions) {
 
         const explanationPara = document.createElement('p');
         explanationPara.className = 'explanation';
-        // Chuyển \[...\] thành \(...\)
         let explanationText = q.explanation.replace(/\\\[/g, '\\(').replace(/\\\]/g, '\\)');
         explanationPara.innerHTML = `Hướng dẫn giải: ${explanationText}`;
         resultItem.appendChild(explanationPara);

@@ -131,9 +131,14 @@ function displayQuestion() {
     return;
   }
   const q = quizQuestions[currentQuestion];
+
+  // Tách nội dung câu hỏi và xử lý xuống dòng
+  const questionLines = q.question.split('<br>').map(line => line.trim());
+  const formattedQuestion = questionLines.join('<br>');
+
   quizDiv.innerHTML = `
     <div class="question">
-      <h3>Câu ${currentQuestion + 1}: ${q.question}</h3>
+      <h3>Câu ${currentQuestion + 1}: ${formattedQuestion}</h3>
       ${q.options.map(opt => `
         <label class="option">
           <input type="radio" name="answer" value="${opt[0]}"> <span class="mathjax-render">${opt}</span>
