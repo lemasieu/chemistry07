@@ -254,3 +254,22 @@ main {
     padding: 10px 0;
   }
 }
+
+table {
+  border-collapse: collapse; /* Gộp các đường viền lại với nhau */
+  width: 100%; /* Đảm bảo bảng chiếm toàn bộ chiều rộng */
+  margin: 10px 0; /* Thêm khoảng cách trên dưới */
+  border: 1px solid #555; /* Đường viền chính cho bảng */
+}
+
+td {
+  border: 1px solid #555; /* Đường viền cho từng ô */
+  padding: 8px; /* Thêm padding để ô dễ đọc hơn */
+  text-align: center; /* Căn giữa nội dung trong ô */
+}
+
+th {
+  border: 1px solid #555; /* Đường viền cho tiêu đề (nếu có) */
+  padding: 8px;
+  text-align: center;
+}
