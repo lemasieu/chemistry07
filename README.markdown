@@ -1,76 +1,108 @@
 # Chemistry07
 
-Welcome to **Chemistry07**, a web-based application designed to assist users in learning chemistry through a test practice mode and a review section. The project is organized into two main parts: a test practice interface and a review interface, both utilizing a shared `questions.json` data file with MathJax support for mathematical formulas.
+A web-based tool for practicing and reviewing chemistry questions across 6 chapters, featuring interactive tests and detailed explanations with MathJax support.
 
-## Demo
-Check out the live demo here: [https://mãsiêu.vn/github/chemistry07/](https://xn--msiu-goa8b.vn/github/chemistry07/)
+## 🚀 Live Demo
 
-## Features
+Check out the live demo: [https://www.sieu.io.vn/github/chemistry07](https://www.sieu.io.vn/github/chemistry07)
+
+## ✨ Features
+
 ### Test Practice Mode
-- Interactive quiz with chemistry questions from 6 chapters.
-- Multiple-choice options with real-time feedback.
-- Timer and score tracking (if implemented).
+- **Interactive Quiz** – Practice chemistry questions from 6 chapters
+- **Multiple-Choice Options** – Select from 4 answer choices per question
+- **Real-Time Feedback** – See immediately whether your answer is correct
+- **Timer & Score Tracking** – (If implemented in `script.js`)
 
 ### Review Mode
-- Browse questions categorized into 6 chapters.
-- Display 4 answer options per question, with the correct answer highlighted in green.
-- Detailed explanations with mathematical formulas rendered via MathJax.
-- Filter questions by chapter using a dropdown menu.
+- **Browse Questions by Chapter** – Questions are categorized into 6 chapters for easy review
+- **4 Answer Options** – Each question displays 4 options with the correct answer highlighted in green
+- **Detailed Explanations** – Each question includes an explanation with mathematical formulas rendered via MathJax
+- **Chapter Filter** – Use the dropdown menu to select a chapter (1–6) or view all chapters
 
 ### General
-- Responsive design for desktop and mobile devices.
-- Dynamic content loading from a JSON file.
+- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile devices
+- **Dynamic Content** – Questions are loaded dynamically from a JSON file
+- **Dark Theme** – Clean, modern dark interface for comfortable use
 
-## Technologies Used
-- **HTML5**: Structure for both test and review interfaces.
-- **CSS3**: Styling with a dark theme and responsive layout.
-- **JavaScript**: Dynamic functionality for test and review modes.
-- **MathJax**: Rendering of mathematical expressions.
-- **JSON**: Data storage for questions and explanations.
+## 🛠️ Technologies Used
 
-## Installation
+- **HTML5** – Structure for both test and review interfaces
+- **CSS3** – Styling with a dark theme and responsive layout
+- **JavaScript (Vanilla)** – Dynamic functionality for test and review modes
+- **MathJax** – Rendering of mathematical expressions
+- **JSON** – Data storage for questions and explanations
 
-1. **Clone the Repository**
+## 📁 Project Structure
+
+```
+chemistry07/
+├── index.html       # Main file for the test practice interface
+├── styles.css       # CSS file for styling the test interface
+├── script.js        # JavaScript file for test mode functionality
+├── review.html      # Main file for the review interface
+├── style-rw.css     # CSS file for styling the review interface
+├── script-rw.js     # JavaScript file for review mode functionality
+├── questions.json   # JSON file containing the question data for both modes
+└── README.md        # Project documentation
+```
+
+## 🔧 Installation & Usage
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/lemasieu/chemistry07.git
    ```
-2. **Navigate to the Project Directory**
+2. **Navigate to the project folder**
    ```bash
    cd chemistry07
    ```
-3. **Open the Project**
-   - Open `index.html` for the test practice mode or `review.html` for the review mode in a web browser.
-   - Ensure an internet connection is available for MathJax to load from its CDN.
+   
+3. **Run the application with a local server**
 
-## Usage
+⚠️ Important: This project loads data from a JSON file, so you need to use a local development server instead of opening `index.html` directly in your browser to avoid CORS issues.
+
+- **Using VS Code** – Install the "Live Server" extension, right-click on `index.html`, and select "Open with Live Server"
+- **Using Python** – Run `python -m http.server` (Python 3) or `python -m SimpleHTTPServer` (Python 2) and open `http://localhost:8000`
+- **Using Node.js** – Install `http-server` globally (`npm install -g http-server`) and run `http-server` in the project folder
+
+## 📝 How It Works
+
 ### Test Practice Mode
-- Access via `index.html`.
-- Answer questions and receive immediate feedback.
-- (Note: Specific features like timer or score depend on `script.js` implementation.)
+
+1. **Access via `index.html`** – Open the test practice interface in your browser
+2. **Answer questions** – Select one of the multiple-choice options for each question
+3. **Receive feedback** – Get immediate feedback on whether your answer is correct
+4. **Track your progress** – The score and (if implemented) timer keep track of your performance
 
 ### Review Mode
-- Access via `review.html`.
-- Use the dropdown menu to select a chapter (1-6) or view all chapters.
-- Each question shows its text, 4 answer options (correct one in green), and an explanation.
 
-## File Structure
-- `index.html`: Main file for the test practice interface.
-- `styles.css`: CSS file for styling the test interface.
-- `script.js`: JavaScript file for test mode functionality.
-- `review.html`: Main file for the review interface.
-- `style-rw.css`: CSS file for styling the review interface.
-- `script-rw.js`: JavaScript file for review mode functionality.
-- `questions.json`: JSON file containing the question data for both modes.
+1. **Access via `review.html`** – Open the review interface in your browser
+2. **Select a chapter** – Use the dropdown menu to choose a chapter (1–6) or view all chapters
+3. **Browse questions** – Each question displays:
+   - The question text
+   - 4 answer options (the correct answer is highlighted in green)
+   - A detailed explanation with mathematical formulas rendered via MathJax
+4. **Switch chapters** – Change the dropdown selection to review questions from different chapters
 
-## Contributing
-Feel free to fork this repository and submit pull requests. Suggestions and improvements are welcome!
+**How questions are stored:**
 
-## License
-This project is open-source. See the [LICENSE](LICENSE) file for more details (if applicable).
+The `questions.json` file contains all question data for both modes, including:
 
-## Contact
-For questions or support, please open an issue on the [GitHub repository](https://github.com/lemasieu/chemistry07) or contact the maintainer.
+- Question text
+- Answer options
+- Correct answer
+- Chapter number
+- Detailed explanation
 
----
+## 🤝 Contributing
 
-*Last updated: August 27, 2025*
+Contributions are welcome! Feel free to submit a Pull Request or open an Issue.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+This project is open-source and available under the MIT License.
